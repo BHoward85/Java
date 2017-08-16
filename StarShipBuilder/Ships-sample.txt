@@ -1,0 +1,46 @@
+Name: Titan
+Class: Battleship
+Crew: 1500
+LSC: 3.00
+Mass total/limit: 4590/5000
+Power cost/limit: 79/90
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+10x laser batteries: 4\F, 2\S, 2\P, 2\A
+4x plasma torpedoes: 2\F, 1\S, 1\P
+12x anti-fighter laser batteries: 6\SS, 6\PS
+4x Missile racks: 2\SS, 2\PS
+
+Defensive Systems:
+Hull Points: 310
+Shield cost: 1.80
+Shield F: 50
+Shield S: 30
+Shield P: 30
+Shield A: 20
+Armor F: 20
+Armor S: 15
+Armor P: 15
+Armor A: 10
+
+Power Systems:
+Movement Cost: 5.00
+Engine Power: 80
+Auxiliary Power: 10
+Battery Capacitance: 12
+
+Other Systems:
+6x Grappling hooks: 1/F, 2/P, 2/S, 1/A
+Hanger bay: Size 5
+8x Transporters
+
+The ship is a balanced design
+
+Name: Fuller
+Class: Frigate
+input chart for Defensive systems was a Weapons system
+input chart for Power systems was a Defensive system
+input chart for Other systems was a Power system
+Ship is incomplete design

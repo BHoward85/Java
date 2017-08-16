@@ -1,0 +1,3468 @@
+     ----jGRASP exec: java ACTBS
+    
+    Starting systems
+    Menus loaded, runing main menu.
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ~ ~                  Welcome to ACTBS                     ~ ~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Ver 0.99, sorry the Customer menu for Cruise is not abailble.
+    
+    Menus:
+    Cruise Admin, Cruise Customer
+    Flight Admin, Flight Customer
+    or type exit to end the system
+    Options: Cruise Customer
+    Sorry, menu is not availble.
+    
+    Menus:
+    Cruise Admin, Cruise Customer
+    Flight Admin, Flight Customer
+    or type exit to end the system
+    Options: Cruise Admin
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 1
+    
+    Enter the number of Seaport: 3
+    Enter the name of the Seaport: Kors
+    Enter the name of the Seaport: Gill
+    Enter the name of the Seaport: Tor
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 2
+    
+    Enter the number of Cruiseline: 1
+    Enter the name of the Cruiseline: RMCL
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 3
+    
+    Enter the number of Cruise: 1
+    
+    Enter in the name of the Cruiseline: RMCL
+    Enter the Origin: Kors
+    Enter the Destination: Tor
+    Enter the number of ports: 3
+    Enter in the name of the Port: Kors
+    Enter in the name of the Port: Gill
+    Enter in the name of the Port: Tor
+    Enter the Name of the Ship: RMC Lin
+    Enter the start date(YYYY MM DD): 2016 05 05
+    Enter the start time(HH MM): 10 00
+    Enter the end date(YYYY MM DD): 2016 05 30
+    Enter the end time(HH MM): 10 00
+    The trip duration is to long.
+    Enter the start date(YYYY MM DD): 2016 05 05
+    Enter the start time(HH MM): 10 00
+    Enter the end date(YYYY MM DD): 2016 05 25
+    Enter the end time(HH MM): 10 00
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 4
+    
+    Enter the number of Section: 4
+    
+    Enter the name of the Cruiseline: RMCL
+    Enter the Ship name: RMC Lin
+    Enter the number of cabin: 8
+    Enter the price of the class: 1000
+    Layouts: E = Deluxe Family, D = Deluxe Couple, C = Couple, F = Family
+    Enter the layout (E/D/C/F): D
+    Enter the deck(A-Z): A
+    
+    Enter the name of the Cruiseline: RMCL
+    Enter the Ship name: RMC Lin
+    Enter the number of cabin: 12
+    Enter the price of the class: 2000
+    Layouts: E = Deluxe Family, D = Deluxe Couple, C = Couple, F = Family
+    Enter the layout (E/D/C/F): D
+    Enter the deck(A-Z): A
+    
+    Enter the name of the Cruiseline: RMCL
+    Enter the Ship name: RMC Lin
+    Enter the number of cabin: 24
+    Enter the price of the class: 1500
+    Layouts: E = Deluxe Family, D = Deluxe Couple, C = Couple, F = Family
+    Enter the layout (E/D/C/F): C
+    Enter the deck(A-Z): B
+    
+    Enter the name of the Cruiseline: RMCL
+    Enter the Ship name: RMC Lin
+    Enter the number of cabin: 1000
+    Enter the price of the class: 10
+    Layouts: E = Deluxe Family, D = Deluxe Couple, C = Couple, F = Family
+    Enter the layout (E/D/C/F): F
+    Enter the deck(A-Z): C
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 7
+    
+    System Details, Booked cabins are marked as X
+    
+    Seaports:
+    Kors
+    Gill
+    Tor
+    
+    Curiseline:
+    RMCL
+    Curise:
+    Ship name: RMC Lin
+    Origin: Kors
+    Destination: Tor
+    List of ports on trip:
+    Kors
+    Gill
+    Tor
+    
+    Curise Line Name: RMCL
+    Curise start date: 2016/5/5
+    Curise start time: 10:00
+    Curise end date: 2016/5/25
+    Curise end time: 10:00
+    Cabin Classes:
+    Family cabin price: 10
+    Deck: C
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    Cabin number: 13 : O
+    Cabin number: 14 : O
+    Cabin number: 15 : O
+    Cabin number: 16 : O
+    Cabin number: 17 : O
+    Cabin number: 18 : O
+    Cabin number: 19 : O
+    Cabin number: 20 : O
+    Cabin number: 21 : O
+    Cabin number: 22 : O
+    Cabin number: 23 : O
+    Cabin number: 24 : O
+    Cabin number: 25 : O
+    Cabin number: 26 : O
+    Cabin number: 27 : O
+    Cabin number: 28 : O
+    Cabin number: 29 : O
+    Cabin number: 30 : O
+    Cabin number: 31 : O
+    Cabin number: 32 : O
+    Cabin number: 33 : O
+    Cabin number: 34 : O
+    Cabin number: 35 : O
+    Cabin number: 36 : O
+    Cabin number: 37 : O
+    Cabin number: 38 : O
+    Cabin number: 39 : O
+    Cabin number: 40 : O
+    Cabin number: 41 : O
+    Cabin number: 42 : O
+    Cabin number: 43 : O
+    Cabin number: 44 : O
+    Cabin number: 45 : O
+    Cabin number: 46 : O
+    Cabin number: 47 : O
+    Cabin number: 48 : O
+    Cabin number: 49 : O
+    Cabin number: 50 : O
+    Cabin number: 51 : O
+    Cabin number: 52 : O
+    Cabin number: 53 : O
+    Cabin number: 54 : O
+    Cabin number: 55 : O
+    Cabin number: 56 : O
+    Cabin number: 57 : O
+    Cabin number: 58 : O
+    Cabin number: 59 : O
+    Cabin number: 60 : O
+    Cabin number: 61 : O
+    Cabin number: 62 : O
+    Cabin number: 63 : O
+    Cabin number: 64 : O
+    Cabin number: 65 : O
+    Cabin number: 66 : O
+    Cabin number: 67 : O
+    Cabin number: 68 : O
+    Cabin number: 69 : O
+    Cabin number: 70 : O
+    Cabin number: 71 : O
+    Cabin number: 72 : O
+    Cabin number: 73 : O
+    Cabin number: 74 : O
+    Cabin number: 75 : O
+    Cabin number: 76 : O
+    Cabin number: 77 : O
+    Cabin number: 78 : O
+    Cabin number: 79 : O
+    Cabin number: 80 : O
+    Cabin number: 81 : O
+    Cabin number: 82 : O
+    Cabin number: 83 : O
+    Cabin number: 84 : O
+    Cabin number: 85 : O
+    Cabin number: 86 : O
+    Cabin number: 87 : O
+    Cabin number: 88 : O
+    Cabin number: 89 : O
+    Cabin number: 90 : O
+    Cabin number: 91 : O
+    Cabin number: 92 : O
+    Cabin number: 93 : O
+    Cabin number: 94 : O
+    Cabin number: 95 : O
+    Cabin number: 96 : O
+    Cabin number: 97 : O
+    Cabin number: 98 : O
+    Cabin number: 99 : O
+    Cabin number: 100 : O
+    Cabin number: 101 : O
+    Cabin number: 102 : O
+    Cabin number: 103 : O
+    Cabin number: 104 : O
+    Cabin number: 105 : O
+    Cabin number: 106 : O
+    Cabin number: 107 : O
+    Cabin number: 108 : O
+    Cabin number: 109 : O
+    Cabin number: 110 : O
+    Cabin number: 111 : O
+    Cabin number: 112 : O
+    Cabin number: 113 : O
+    Cabin number: 114 : O
+    Cabin number: 115 : O
+    Cabin number: 116 : O
+    Cabin number: 117 : O
+    Cabin number: 118 : O
+    Cabin number: 119 : O
+    Cabin number: 120 : O
+    Cabin number: 121 : O
+    Cabin number: 122 : O
+    Cabin number: 123 : O
+    Cabin number: 124 : O
+    Cabin number: 125 : O
+    Cabin number: 126 : O
+    Cabin number: 127 : O
+    Cabin number: 128 : O
+    Cabin number: 129 : O
+    Cabin number: 130 : O
+    Cabin number: 131 : O
+    Cabin number: 132 : O
+    Cabin number: 133 : O
+    Cabin number: 134 : O
+    Cabin number: 135 : O
+    Cabin number: 136 : O
+    Cabin number: 137 : O
+    Cabin number: 138 : O
+    Cabin number: 139 : O
+    Cabin number: 140 : O
+    Cabin number: 141 : O
+    Cabin number: 142 : O
+    Cabin number: 143 : O
+    Cabin number: 144 : O
+    Cabin number: 145 : O
+    Cabin number: 146 : O
+    Cabin number: 147 : O
+    Cabin number: 148 : O
+    Cabin number: 149 : O
+    Cabin number: 150 : O
+    Cabin number: 151 : O
+    Cabin number: 152 : O
+    Cabin number: 153 : O
+    Cabin number: 154 : O
+    Cabin number: 155 : O
+    Cabin number: 156 : O
+    Cabin number: 157 : O
+    Cabin number: 158 : O
+    Cabin number: 159 : O
+    Cabin number: 160 : O
+    Cabin number: 161 : O
+    Cabin number: 162 : O
+    Cabin number: 163 : O
+    Cabin number: 164 : O
+    Cabin number: 165 : O
+    Cabin number: 166 : O
+    Cabin number: 167 : O
+    Cabin number: 168 : O
+    Cabin number: 169 : O
+    Cabin number: 170 : O
+    Cabin number: 171 : O
+    Cabin number: 172 : O
+    Cabin number: 173 : O
+    Cabin number: 174 : O
+    Cabin number: 175 : O
+    Cabin number: 176 : O
+    Cabin number: 177 : O
+    Cabin number: 178 : O
+    Cabin number: 179 : O
+    Cabin number: 180 : O
+    Cabin number: 181 : O
+    Cabin number: 182 : O
+    Cabin number: 183 : O
+    Cabin number: 184 : O
+    Cabin number: 185 : O
+    Cabin number: 186 : O
+    Cabin number: 187 : O
+    Cabin number: 188 : O
+    Cabin number: 189 : O
+    Cabin number: 190 : O
+    Cabin number: 191 : O
+    Cabin number: 192 : O
+    Cabin number: 193 : O
+    Cabin number: 194 : O
+    Cabin number: 195 : O
+    Cabin number: 196 : O
+    Cabin number: 197 : O
+    Cabin number: 198 : O
+    Cabin number: 199 : O
+    Cabin number: 200 : O
+    Cabin number: 201 : O
+    Cabin number: 202 : O
+    Cabin number: 203 : O
+    Cabin number: 204 : O
+    Cabin number: 205 : O
+    Cabin number: 206 : O
+    Cabin number: 207 : O
+    Cabin number: 208 : O
+    Cabin number: 209 : O
+    Cabin number: 210 : O
+    Cabin number: 211 : O
+    Cabin number: 212 : O
+    Cabin number: 213 : O
+    Cabin number: 214 : O
+    Cabin number: 215 : O
+    Cabin number: 216 : O
+    Cabin number: 217 : O
+    Cabin number: 218 : O
+    Cabin number: 219 : O
+    Cabin number: 220 : O
+    Cabin number: 221 : O
+    Cabin number: 222 : O
+    Cabin number: 223 : O
+    Cabin number: 224 : O
+    Cabin number: 225 : O
+    Cabin number: 226 : O
+    Cabin number: 227 : O
+    Cabin number: 228 : O
+    Cabin number: 229 : O
+    Cabin number: 230 : O
+    Cabin number: 231 : O
+    Cabin number: 232 : O
+    Cabin number: 233 : O
+    Cabin number: 234 : O
+    Cabin number: 235 : O
+    Cabin number: 236 : O
+    Cabin number: 237 : O
+    Cabin number: 238 : O
+    Cabin number: 239 : O
+    Cabin number: 240 : O
+    Cabin number: 241 : O
+    Cabin number: 242 : O
+    Cabin number: 243 : O
+    Cabin number: 244 : O
+    Cabin number: 245 : O
+    Cabin number: 246 : O
+    Cabin number: 247 : O
+    Cabin number: 248 : O
+    Cabin number: 249 : O
+    Cabin number: 250 : O
+    Cabin number: 251 : O
+    Cabin number: 252 : O
+    Cabin number: 253 : O
+    Cabin number: 254 : O
+    Cabin number: 255 : O
+    Cabin number: 256 : O
+    Cabin number: 257 : O
+    Cabin number: 258 : O
+    Cabin number: 259 : O
+    Cabin number: 260 : O
+    Cabin number: 261 : O
+    Cabin number: 262 : O
+    Cabin number: 263 : O
+    Cabin number: 264 : O
+    Cabin number: 265 : O
+    Cabin number: 266 : O
+    Cabin number: 267 : O
+    Cabin number: 268 : O
+    Cabin number: 269 : O
+    Cabin number: 270 : O
+    Cabin number: 271 : O
+    Cabin number: 272 : O
+    Cabin number: 273 : O
+    Cabin number: 274 : O
+    Cabin number: 275 : O
+    Cabin number: 276 : O
+    Cabin number: 277 : O
+    Cabin number: 278 : O
+    Cabin number: 279 : O
+    Cabin number: 280 : O
+    Cabin number: 281 : O
+    Cabin number: 282 : O
+    Cabin number: 283 : O
+    Cabin number: 284 : O
+    Cabin number: 285 : O
+    Cabin number: 286 : O
+    Cabin number: 287 : O
+    Cabin number: 288 : O
+    Cabin number: 289 : O
+    Cabin number: 290 : O
+    Cabin number: 291 : O
+    Cabin number: 292 : O
+    Cabin number: 293 : O
+    Cabin number: 294 : O
+    Cabin number: 295 : O
+    Cabin number: 296 : O
+    Cabin number: 297 : O
+    Cabin number: 298 : O
+    Cabin number: 299 : O
+    Cabin number: 300 : O
+    Cabin number: 301 : O
+    Cabin number: 302 : O
+    Cabin number: 303 : O
+    Cabin number: 304 : O
+    Cabin number: 305 : O
+    Cabin number: 306 : O
+    Cabin number: 307 : O
+    Cabin number: 308 : O
+    Cabin number: 309 : O
+    Cabin number: 310 : O
+    Cabin number: 311 : O
+    Cabin number: 312 : O
+    Cabin number: 313 : O
+    Cabin number: 314 : O
+    Cabin number: 315 : O
+    Cabin number: 316 : O
+    Cabin number: 317 : O
+    Cabin number: 318 : O
+    Cabin number: 319 : O
+    Cabin number: 320 : O
+    Cabin number: 321 : O
+    Cabin number: 322 : O
+    Cabin number: 323 : O
+    Cabin number: 324 : O
+    Cabin number: 325 : O
+    Cabin number: 326 : O
+    Cabin number: 327 : O
+    Cabin number: 328 : O
+    Cabin number: 329 : O
+    Cabin number: 330 : O
+    Cabin number: 331 : O
+    Cabin number: 332 : O
+    Cabin number: 333 : O
+    Cabin number: 334 : O
+    Cabin number: 335 : O
+    Cabin number: 336 : O
+    Cabin number: 337 : O
+    Cabin number: 338 : O
+    Cabin number: 339 : O
+    Cabin number: 340 : O
+    Cabin number: 341 : O
+    Cabin number: 342 : O
+    Cabin number: 343 : O
+    Cabin number: 344 : O
+    Cabin number: 345 : O
+    Cabin number: 346 : O
+    Cabin number: 347 : O
+    Cabin number: 348 : O
+    Cabin number: 349 : O
+    Cabin number: 350 : O
+    Cabin number: 351 : O
+    Cabin number: 352 : O
+    Cabin number: 353 : O
+    Cabin number: 354 : O
+    Cabin number: 355 : O
+    Cabin number: 356 : O
+    Cabin number: 357 : O
+    Cabin number: 358 : O
+    Cabin number: 359 : O
+    Cabin number: 360 : O
+    Cabin number: 361 : O
+    Cabin number: 362 : O
+    Cabin number: 363 : O
+    Cabin number: 364 : O
+    Cabin number: 365 : O
+    Cabin number: 366 : O
+    Cabin number: 367 : O
+    Cabin number: 368 : O
+    Cabin number: 369 : O
+    Cabin number: 370 : O
+    Cabin number: 371 : O
+    Cabin number: 372 : O
+    Cabin number: 373 : O
+    Cabin number: 374 : O
+    Cabin number: 375 : O
+    Cabin number: 376 : O
+    Cabin number: 377 : O
+    Cabin number: 378 : O
+    Cabin number: 379 : O
+    Cabin number: 380 : O
+    Cabin number: 381 : O
+    Cabin number: 382 : O
+    Cabin number: 383 : O
+    Cabin number: 384 : O
+    Cabin number: 385 : O
+    Cabin number: 386 : O
+    Cabin number: 387 : O
+    Cabin number: 388 : O
+    Cabin number: 389 : O
+    Cabin number: 390 : O
+    Cabin number: 391 : O
+    Cabin number: 392 : O
+    Cabin number: 393 : O
+    Cabin number: 394 : O
+    Cabin number: 395 : O
+    Cabin number: 396 : O
+    Cabin number: 397 : O
+    Cabin number: 398 : O
+    Cabin number: 399 : O
+    Cabin number: 400 : O
+    Cabin number: 401 : O
+    Cabin number: 402 : O
+    Cabin number: 403 : O
+    Cabin number: 404 : O
+    Cabin number: 405 : O
+    Cabin number: 406 : O
+    Cabin number: 407 : O
+    Cabin number: 408 : O
+    Cabin number: 409 : O
+    Cabin number: 410 : O
+    Cabin number: 411 : O
+    Cabin number: 412 : O
+    Cabin number: 413 : O
+    Cabin number: 414 : O
+    Cabin number: 415 : O
+    Cabin number: 416 : O
+    Cabin number: 417 : O
+    Cabin number: 418 : O
+    Cabin number: 419 : O
+    Cabin number: 420 : O
+    Cabin number: 421 : O
+    Cabin number: 422 : O
+    Cabin number: 423 : O
+    Cabin number: 424 : O
+    Cabin number: 425 : O
+    Cabin number: 426 : O
+    Cabin number: 427 : O
+    Cabin number: 428 : O
+    Cabin number: 429 : O
+    Cabin number: 430 : O
+    Cabin number: 431 : O
+    Cabin number: 432 : O
+    Cabin number: 433 : O
+    Cabin number: 434 : O
+    Cabin number: 435 : O
+    Cabin number: 436 : O
+    Cabin number: 437 : O
+    Cabin number: 438 : O
+    Cabin number: 439 : O
+    Cabin number: 440 : O
+    Cabin number: 441 : O
+    Cabin number: 442 : O
+    Cabin number: 443 : O
+    Cabin number: 444 : O
+    Cabin number: 445 : O
+    Cabin number: 446 : O
+    Cabin number: 447 : O
+    Cabin number: 448 : O
+    Cabin number: 449 : O
+    Cabin number: 450 : O
+    Cabin number: 451 : O
+    Cabin number: 452 : O
+    Cabin number: 453 : O
+    Cabin number: 454 : O
+    Cabin number: 455 : O
+    Cabin number: 456 : O
+    Cabin number: 457 : O
+    Cabin number: 458 : O
+    Cabin number: 459 : O
+    Cabin number: 460 : O
+    Cabin number: 461 : O
+    Cabin number: 462 : O
+    Cabin number: 463 : O
+    Cabin number: 464 : O
+    Cabin number: 465 : O
+    Cabin number: 466 : O
+    Cabin number: 467 : O
+    Cabin number: 468 : O
+    Cabin number: 469 : O
+    Cabin number: 470 : O
+    Cabin number: 471 : O
+    Cabin number: 472 : O
+    Cabin number: 473 : O
+    Cabin number: 474 : O
+    Cabin number: 475 : O
+    Cabin number: 476 : O
+    Cabin number: 477 : O
+    Cabin number: 478 : O
+    Cabin number: 479 : O
+    Cabin number: 480 : O
+    Cabin number: 481 : O
+    Cabin number: 482 : O
+    Cabin number: 483 : O
+    Cabin number: 484 : O
+    Cabin number: 485 : O
+    Cabin number: 486 : O
+    Cabin number: 487 : O
+    Cabin number: 488 : O
+    Cabin number: 489 : O
+    Cabin number: 490 : O
+    Cabin number: 491 : O
+    Cabin number: 492 : O
+    Cabin number: 493 : O
+    Cabin number: 494 : O
+    Cabin number: 495 : O
+    Cabin number: 496 : O
+    Cabin number: 497 : O
+    Cabin number: 498 : O
+    Cabin number: 499 : O
+    Cabin number: 500 : O
+    Cabin number: 501 : O
+    Cabin number: 502 : O
+    Cabin number: 503 : O
+    Cabin number: 504 : O
+    Cabin number: 505 : O
+    Cabin number: 506 : O
+    Cabin number: 507 : O
+    Cabin number: 508 : O
+    Cabin number: 509 : O
+    Cabin number: 510 : O
+    Cabin number: 511 : O
+    Cabin number: 512 : O
+    Cabin number: 513 : O
+    Cabin number: 514 : O
+    Cabin number: 515 : O
+    Cabin number: 516 : O
+    Cabin number: 517 : O
+    Cabin number: 518 : O
+    Cabin number: 519 : O
+    Cabin number: 520 : O
+    Cabin number: 521 : O
+    Cabin number: 522 : O
+    Cabin number: 523 : O
+    Cabin number: 524 : O
+    Cabin number: 525 : O
+    Cabin number: 526 : O
+    Cabin number: 527 : O
+    Cabin number: 528 : O
+    Cabin number: 529 : O
+    Cabin number: 530 : O
+    Cabin number: 531 : O
+    Cabin number: 532 : O
+    Cabin number: 533 : O
+    Cabin number: 534 : O
+    Cabin number: 535 : O
+    Cabin number: 536 : O
+    Cabin number: 537 : O
+    Cabin number: 538 : O
+    Cabin number: 539 : O
+    Cabin number: 540 : O
+    Cabin number: 541 : O
+    Cabin number: 542 : O
+    Cabin number: 543 : O
+    Cabin number: 544 : O
+    Cabin number: 545 : O
+    Cabin number: 546 : O
+    Cabin number: 547 : O
+    Cabin number: 548 : O
+    Cabin number: 549 : O
+    Cabin number: 550 : O
+    Cabin number: 551 : O
+    Cabin number: 552 : O
+    Cabin number: 553 : O
+    Cabin number: 554 : O
+    Cabin number: 555 : O
+    Cabin number: 556 : O
+    Cabin number: 557 : O
+    Cabin number: 558 : O
+    Cabin number: 559 : O
+    Cabin number: 560 : O
+    Cabin number: 561 : O
+    Cabin number: 562 : O
+    Cabin number: 563 : O
+    Cabin number: 564 : O
+    Cabin number: 565 : O
+    Cabin number: 566 : O
+    Cabin number: 567 : O
+    Cabin number: 568 : O
+    Cabin number: 569 : O
+    Cabin number: 570 : O
+    Cabin number: 571 : O
+    Cabin number: 572 : O
+    Cabin number: 573 : O
+    Cabin number: 574 : O
+    Cabin number: 575 : O
+    Cabin number: 576 : O
+    Cabin number: 577 : O
+    Cabin number: 578 : O
+    Cabin number: 579 : O
+    Cabin number: 580 : O
+    Cabin number: 581 : O
+    Cabin number: 582 : O
+    Cabin number: 583 : O
+    Cabin number: 584 : O
+    Cabin number: 585 : O
+    Cabin number: 586 : O
+    Cabin number: 587 : O
+    Cabin number: 588 : O
+    Cabin number: 589 : O
+    Cabin number: 590 : O
+    Cabin number: 591 : O
+    Cabin number: 592 : O
+    Cabin number: 593 : O
+    Cabin number: 594 : O
+    Cabin number: 595 : O
+    Cabin number: 596 : O
+    Cabin number: 597 : O
+    Cabin number: 598 : O
+    Cabin number: 599 : O
+    Cabin number: 600 : O
+    Cabin number: 601 : O
+    Cabin number: 602 : O
+    Cabin number: 603 : O
+    Cabin number: 604 : O
+    Cabin number: 605 : O
+    Cabin number: 606 : O
+    Cabin number: 607 : O
+    Cabin number: 608 : O
+    Cabin number: 609 : O
+    Cabin number: 610 : O
+    Cabin number: 611 : O
+    Cabin number: 612 : O
+    Cabin number: 613 : O
+    Cabin number: 614 : O
+    Cabin number: 615 : O
+    Cabin number: 616 : O
+    Cabin number: 617 : O
+    Cabin number: 618 : O
+    Cabin number: 619 : O
+    Cabin number: 620 : O
+    Cabin number: 621 : O
+    Cabin number: 622 : O
+    Cabin number: 623 : O
+    Cabin number: 624 : O
+    Cabin number: 625 : O
+    Cabin number: 626 : O
+    Cabin number: 627 : O
+    Cabin number: 628 : O
+    Cabin number: 629 : O
+    Cabin number: 630 : O
+    Cabin number: 631 : O
+    Cabin number: 632 : O
+    Cabin number: 633 : O
+    Cabin number: 634 : O
+    Cabin number: 635 : O
+    Cabin number: 636 : O
+    Cabin number: 637 : O
+    Cabin number: 638 : O
+    Cabin number: 639 : O
+    Cabin number: 640 : O
+    Cabin number: 641 : O
+    Cabin number: 642 : O
+    Cabin number: 643 : O
+    Cabin number: 644 : O
+    Cabin number: 645 : O
+    Cabin number: 646 : O
+    Cabin number: 647 : O
+    Cabin number: 648 : O
+    Cabin number: 649 : O
+    Cabin number: 650 : O
+    Cabin number: 651 : O
+    Cabin number: 652 : O
+    Cabin number: 653 : O
+    Cabin number: 654 : O
+    Cabin number: 655 : O
+    Cabin number: 656 : O
+    Cabin number: 657 : O
+    Cabin number: 658 : O
+    Cabin number: 659 : O
+    Cabin number: 660 : O
+    Cabin number: 661 : O
+    Cabin number: 662 : O
+    Cabin number: 663 : O
+    Cabin number: 664 : O
+    Cabin number: 665 : O
+    Cabin number: 666 : O
+    Cabin number: 667 : O
+    Cabin number: 668 : O
+    Cabin number: 669 : O
+    Cabin number: 670 : O
+    Cabin number: 671 : O
+    Cabin number: 672 : O
+    Cabin number: 673 : O
+    Cabin number: 674 : O
+    Cabin number: 675 : O
+    Cabin number: 676 : O
+    Cabin number: 677 : O
+    Cabin number: 678 : O
+    Cabin number: 679 : O
+    Cabin number: 680 : O
+    Cabin number: 681 : O
+    Cabin number: 682 : O
+    Cabin number: 683 : O
+    Cabin number: 684 : O
+    Cabin number: 685 : O
+    Cabin number: 686 : O
+    Cabin number: 687 : O
+    Cabin number: 688 : O
+    Cabin number: 689 : O
+    Cabin number: 690 : O
+    Cabin number: 691 : O
+    Cabin number: 692 : O
+    Cabin number: 693 : O
+    Cabin number: 694 : O
+    Cabin number: 695 : O
+    Cabin number: 696 : O
+    Cabin number: 697 : O
+    Cabin number: 698 : O
+    Cabin number: 699 : O
+    Cabin number: 700 : O
+    Cabin number: 701 : O
+    Cabin number: 702 : O
+    Cabin number: 703 : O
+    Cabin number: 704 : O
+    Cabin number: 705 : O
+    Cabin number: 706 : O
+    Cabin number: 707 : O
+    Cabin number: 708 : O
+    Cabin number: 709 : O
+    Cabin number: 710 : O
+    Cabin number: 711 : O
+    Cabin number: 712 : O
+    Cabin number: 713 : O
+    Cabin number: 714 : O
+    Cabin number: 715 : O
+    Cabin number: 716 : O
+    Cabin number: 717 : O
+    Cabin number: 718 : O
+    Cabin number: 719 : O
+    Cabin number: 720 : O
+    Cabin number: 721 : O
+    Cabin number: 722 : O
+    Cabin number: 723 : O
+    Cabin number: 724 : O
+    Cabin number: 725 : O
+    Cabin number: 726 : O
+    Cabin number: 727 : O
+    Cabin number: 728 : O
+    Cabin number: 729 : O
+    Cabin number: 730 : O
+    Cabin number: 731 : O
+    Cabin number: 732 : O
+    Cabin number: 733 : O
+    Cabin number: 734 : O
+    Cabin number: 735 : O
+    Cabin number: 736 : O
+    Cabin number: 737 : O
+    Cabin number: 738 : O
+    Cabin number: 739 : O
+    Cabin number: 740 : O
+    Cabin number: 741 : O
+    Cabin number: 742 : O
+    Cabin number: 743 : O
+    Cabin number: 744 : O
+    Cabin number: 745 : O
+    Cabin number: 746 : O
+    Cabin number: 747 : O
+    Cabin number: 748 : O
+    Cabin number: 749 : O
+    Cabin number: 750 : O
+    Cabin number: 751 : O
+    Cabin number: 752 : O
+    Cabin number: 753 : O
+    Cabin number: 754 : O
+    Cabin number: 755 : O
+    Cabin number: 756 : O
+    Cabin number: 757 : O
+    Cabin number: 758 : O
+    Cabin number: 759 : O
+    Cabin number: 760 : O
+    Cabin number: 761 : O
+    Cabin number: 762 : O
+    Cabin number: 763 : O
+    Cabin number: 764 : O
+    Cabin number: 765 : O
+    Cabin number: 766 : O
+    Cabin number: 767 : O
+    Cabin number: 768 : O
+    Cabin number: 769 : O
+    Cabin number: 770 : O
+    Cabin number: 771 : O
+    Cabin number: 772 : O
+    Cabin number: 773 : O
+    Cabin number: 774 : O
+    Cabin number: 775 : O
+    Cabin number: 776 : O
+    Cabin number: 777 : O
+    Cabin number: 778 : O
+    Cabin number: 779 : O
+    Cabin number: 780 : O
+    Cabin number: 781 : O
+    Cabin number: 782 : O
+    Cabin number: 783 : O
+    Cabin number: 784 : O
+    Cabin number: 785 : O
+    Cabin number: 786 : O
+    Cabin number: 787 : O
+    Cabin number: 788 : O
+    Cabin number: 789 : O
+    Cabin number: 790 : O
+    Cabin number: 791 : O
+    Cabin number: 792 : O
+    Cabin number: 793 : O
+    Cabin number: 794 : O
+    Cabin number: 795 : O
+    Cabin number: 796 : O
+    Cabin number: 797 : O
+    Cabin number: 798 : O
+    Cabin number: 799 : O
+    Cabin number: 800 : O
+    Cabin number: 801 : O
+    Cabin number: 802 : O
+    Cabin number: 803 : O
+    Cabin number: 804 : O
+    Cabin number: 805 : O
+    Cabin number: 806 : O
+    Cabin number: 807 : O
+    Cabin number: 808 : O
+    Cabin number: 809 : O
+    Cabin number: 810 : O
+    Cabin number: 811 : O
+    Cabin number: 812 : O
+    Cabin number: 813 : O
+    Cabin number: 814 : O
+    Cabin number: 815 : O
+    Cabin number: 816 : O
+    Cabin number: 817 : O
+    Cabin number: 818 : O
+    Cabin number: 819 : O
+    Cabin number: 820 : O
+    Cabin number: 821 : O
+    Cabin number: 822 : O
+    Cabin number: 823 : O
+    Cabin number: 824 : O
+    Cabin number: 825 : O
+    Cabin number: 826 : O
+    Cabin number: 827 : O
+    Cabin number: 828 : O
+    Cabin number: 829 : O
+    Cabin number: 830 : O
+    Cabin number: 831 : O
+    Cabin number: 832 : O
+    Cabin number: 833 : O
+    Cabin number: 834 : O
+    Cabin number: 835 : O
+    Cabin number: 836 : O
+    Cabin number: 837 : O
+    Cabin number: 838 : O
+    Cabin number: 839 : O
+    Cabin number: 840 : O
+    Cabin number: 841 : O
+    Cabin number: 842 : O
+    Cabin number: 843 : O
+    Cabin number: 844 : O
+    Cabin number: 845 : O
+    Cabin number: 846 : O
+    Cabin number: 847 : O
+    Cabin number: 848 : O
+    Cabin number: 849 : O
+    Cabin number: 850 : O
+    Cabin number: 851 : O
+    Cabin number: 852 : O
+    Cabin number: 853 : O
+    Cabin number: 854 : O
+    Cabin number: 855 : O
+    Cabin number: 856 : O
+    Cabin number: 857 : O
+    Cabin number: 858 : O
+    Cabin number: 859 : O
+    Cabin number: 860 : O
+    Cabin number: 861 : O
+    Cabin number: 862 : O
+    Cabin number: 863 : O
+    Cabin number: 864 : O
+    Cabin number: 865 : O
+    Cabin number: 866 : O
+    Cabin number: 867 : O
+    Cabin number: 868 : O
+    Cabin number: 869 : O
+    Cabin number: 870 : O
+    Cabin number: 871 : O
+    Cabin number: 872 : O
+    Cabin number: 873 : O
+    Cabin number: 874 : O
+    Cabin number: 875 : O
+    Cabin number: 876 : O
+    Cabin number: 877 : O
+    Cabin number: 878 : O
+    Cabin number: 879 : O
+    Cabin number: 880 : O
+    Cabin number: 881 : O
+    Cabin number: 882 : O
+    Cabin number: 883 : O
+    Cabin number: 884 : O
+    Cabin number: 885 : O
+    Cabin number: 886 : O
+    Cabin number: 887 : O
+    Cabin number: 888 : O
+    Cabin number: 889 : O
+    Cabin number: 890 : O
+    Cabin number: 891 : O
+    Cabin number: 892 : O
+    Cabin number: 893 : O
+    Cabin number: 894 : O
+    Cabin number: 895 : O
+    Cabin number: 896 : O
+    Cabin number: 897 : O
+    Cabin number: 898 : O
+    Cabin number: 899 : O
+    Cabin number: 900 : O
+    Cabin number: 901 : O
+    Cabin number: 902 : O
+    Cabin number: 903 : O
+    Cabin number: 904 : O
+    Cabin number: 905 : O
+    Cabin number: 906 : O
+    Cabin number: 907 : O
+    Cabin number: 908 : O
+    Cabin number: 909 : O
+    Cabin number: 910 : O
+    Cabin number: 911 : O
+    Cabin number: 912 : O
+    Cabin number: 913 : O
+    Cabin number: 914 : O
+    Cabin number: 915 : O
+    Cabin number: 916 : O
+    Cabin number: 917 : O
+    Cabin number: 918 : O
+    Cabin number: 919 : O
+    Cabin number: 920 : O
+    Cabin number: 921 : O
+    Cabin number: 922 : O
+    Cabin number: 923 : O
+    Cabin number: 924 : O
+    Cabin number: 925 : O
+    Cabin number: 926 : O
+    Cabin number: 927 : O
+    Cabin number: 928 : O
+    Cabin number: 929 : O
+    Cabin number: 930 : O
+    Cabin number: 931 : O
+    Cabin number: 932 : O
+    Cabin number: 933 : O
+    Cabin number: 934 : O
+    Cabin number: 935 : O
+    Cabin number: 936 : O
+    Cabin number: 937 : O
+    Cabin number: 938 : O
+    Cabin number: 939 : O
+    Cabin number: 940 : O
+    Cabin number: 941 : O
+    Cabin number: 942 : O
+    Cabin number: 943 : O
+    Cabin number: 944 : O
+    Cabin number: 945 : O
+    Cabin number: 946 : O
+    Cabin number: 947 : O
+    Cabin number: 948 : O
+    Cabin number: 949 : O
+    Cabin number: 950 : O
+    Cabin number: 951 : O
+    Cabin number: 952 : O
+    Cabin number: 953 : O
+    Cabin number: 954 : O
+    Cabin number: 955 : O
+    Cabin number: 956 : O
+    Cabin number: 957 : O
+    Cabin number: 958 : O
+    Cabin number: 959 : O
+    Cabin number: 960 : O
+    Cabin number: 961 : O
+    Cabin number: 962 : O
+    Cabin number: 963 : O
+    Cabin number: 964 : O
+    Cabin number: 965 : O
+    Cabin number: 966 : O
+    Cabin number: 967 : O
+    Cabin number: 968 : O
+    Cabin number: 969 : O
+    Cabin number: 970 : O
+    Cabin number: 971 : O
+    Cabin number: 972 : O
+    Cabin number: 973 : O
+    Cabin number: 974 : O
+    Cabin number: 975 : O
+    Cabin number: 976 : O
+    Cabin number: 977 : O
+    Cabin number: 978 : O
+    Cabin number: 979 : O
+    Cabin number: 980 : O
+    Cabin number: 981 : O
+    Cabin number: 982 : O
+    Cabin number: 983 : O
+    Cabin number: 984 : O
+    Cabin number: 985 : O
+    Cabin number: 986 : O
+    Cabin number: 987 : O
+    Cabin number: 988 : O
+    Cabin number: 989 : O
+    Cabin number: 990 : O
+    Cabin number: 991 : O
+    Cabin number: 992 : O
+    Cabin number: 993 : O
+    Cabin number: 994 : O
+    Cabin number: 995 : O
+    Cabin number: 996 : O
+    Cabin number: 997 : O
+    Cabin number: 998 : O
+    Cabin number: 999 : O
+    Cabin number: 1000 : O
+    
+    Deluxe Family cabin price: 0
+    Deck:  
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    Cabin number: 13 : O
+    Cabin number: 14 : O
+    Cabin number: 15 : O
+    Cabin number: 16 : O
+    Cabin number: 17 : O
+    Cabin number: 18 : O
+    Cabin number: 19 : O
+    Cabin number: 20 : O
+    
+    Couples cabin price: 1500
+    Deck: B
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    Cabin number: 13 : O
+    Cabin number: 14 : O
+    Cabin number: 15 : O
+    Cabin number: 16 : O
+    Cabin number: 17 : O
+    Cabin number: 18 : O
+    Cabin number: 19 : O
+    Cabin number: 20 : O
+    Cabin number: 21 : O
+    Cabin number: 22 : O
+    Cabin number: 23 : O
+    Cabin number: 24 : O
+    
+    Deluxe Couples cabin price: 2000
+    Deck: A
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 4
+    
+    Enter the number of Section: 1
+    
+    Enter the name of the Cruiseline: RMCL
+    Enter the Ship name: RMC Lin
+    Enter the number of cabin: 50
+    Enter the price of the class: 1500
+    Layouts: E = Deluxe Family, D = Deluxe Couple, C = Couple, F = Family
+    Enter the layout (E/D/C/F): E
+    Enter the deck(A-Z): C
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 7
+    
+    System Details, Booked cabins are marked as X
+    
+    Seaports:
+    Kors
+    Gill
+    Tor
+    
+    Curiseline:
+    RMCL
+    Curise:
+    Ship name: RMC Lin
+    Origin: Kors
+    Destination: Tor
+    List of ports on trip:
+    Kors
+    Gill
+    Tor
+    
+    Curise Line Name: RMCL
+    Curise start date: 2016/5/5
+    Curise start time: 10:00
+    Curise end date: 2016/5/25
+    Curise end time: 10:00
+    Cabin Classes:
+    Family cabin price: 10
+    Deck: C
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    Cabin number: 13 : O
+    Cabin number: 14 : O
+    Cabin number: 15 : O
+    Cabin number: 16 : O
+    Cabin number: 17 : O
+    Cabin number: 18 : O
+    Cabin number: 19 : O
+    Cabin number: 20 : O
+    Cabin number: 21 : O
+    Cabin number: 22 : O
+    Cabin number: 23 : O
+    Cabin number: 24 : O
+    Cabin number: 25 : O
+    Cabin number: 26 : O
+    Cabin number: 27 : O
+    Cabin number: 28 : O
+    Cabin number: 29 : O
+    Cabin number: 30 : O
+    Cabin number: 31 : O
+    Cabin number: 32 : O
+    Cabin number: 33 : O
+    Cabin number: 34 : O
+    Cabin number: 35 : O
+    Cabin number: 36 : O
+    Cabin number: 37 : O
+    Cabin number: 38 : O
+    Cabin number: 39 : O
+    Cabin number: 40 : O
+    Cabin number: 41 : O
+    Cabin number: 42 : O
+    Cabin number: 43 : O
+    Cabin number: 44 : O
+    Cabin number: 45 : O
+    Cabin number: 46 : O
+    Cabin number: 47 : O
+    Cabin number: 48 : O
+    Cabin number: 49 : O
+    Cabin number: 50 : O
+    Cabin number: 51 : O
+    Cabin number: 52 : O
+    Cabin number: 53 : O
+    Cabin number: 54 : O
+    Cabin number: 55 : O
+    Cabin number: 56 : O
+    Cabin number: 57 : O
+    Cabin number: 58 : O
+    Cabin number: 59 : O
+    Cabin number: 60 : O
+    Cabin number: 61 : O
+    Cabin number: 62 : O
+    Cabin number: 63 : O
+    Cabin number: 64 : O
+    Cabin number: 65 : O
+    Cabin number: 66 : O
+    Cabin number: 67 : O
+    Cabin number: 68 : O
+    Cabin number: 69 : O
+    Cabin number: 70 : O
+    Cabin number: 71 : O
+    Cabin number: 72 : O
+    Cabin number: 73 : O
+    Cabin number: 74 : O
+    Cabin number: 75 : O
+    Cabin number: 76 : O
+    Cabin number: 77 : O
+    Cabin number: 78 : O
+    Cabin number: 79 : O
+    Cabin number: 80 : O
+    Cabin number: 81 : O
+    Cabin number: 82 : O
+    Cabin number: 83 : O
+    Cabin number: 84 : O
+    Cabin number: 85 : O
+    Cabin number: 86 : O
+    Cabin number: 87 : O
+    Cabin number: 88 : O
+    Cabin number: 89 : O
+    Cabin number: 90 : O
+    Cabin number: 91 : O
+    Cabin number: 92 : O
+    Cabin number: 93 : O
+    Cabin number: 94 : O
+    Cabin number: 95 : O
+    Cabin number: 96 : O
+    Cabin number: 97 : O
+    Cabin number: 98 : O
+    Cabin number: 99 : O
+    Cabin number: 100 : O
+    Cabin number: 101 : O
+    Cabin number: 102 : O
+    Cabin number: 103 : O
+    Cabin number: 104 : O
+    Cabin number: 105 : O
+    Cabin number: 106 : O
+    Cabin number: 107 : O
+    Cabin number: 108 : O
+    Cabin number: 109 : O
+    Cabin number: 110 : O
+    Cabin number: 111 : O
+    Cabin number: 112 : O
+    Cabin number: 113 : O
+    Cabin number: 114 : O
+    Cabin number: 115 : O
+    Cabin number: 116 : O
+    Cabin number: 117 : O
+    Cabin number: 118 : O
+    Cabin number: 119 : O
+    Cabin number: 120 : O
+    Cabin number: 121 : O
+    Cabin number: 122 : O
+    Cabin number: 123 : O
+    Cabin number: 124 : O
+    Cabin number: 125 : O
+    Cabin number: 126 : O
+    Cabin number: 127 : O
+    Cabin number: 128 : O
+    Cabin number: 129 : O
+    Cabin number: 130 : O
+    Cabin number: 131 : O
+    Cabin number: 132 : O
+    Cabin number: 133 : O
+    Cabin number: 134 : O
+    Cabin number: 135 : O
+    Cabin number: 136 : O
+    Cabin number: 137 : O
+    Cabin number: 138 : O
+    Cabin number: 139 : O
+    Cabin number: 140 : O
+    Cabin number: 141 : O
+    Cabin number: 142 : O
+    Cabin number: 143 : O
+    Cabin number: 144 : O
+    Cabin number: 145 : O
+    Cabin number: 146 : O
+    Cabin number: 147 : O
+    Cabin number: 148 : O
+    Cabin number: 149 : O
+    Cabin number: 150 : O
+    Cabin number: 151 : O
+    Cabin number: 152 : O
+    Cabin number: 153 : O
+    Cabin number: 154 : O
+    Cabin number: 155 : O
+    Cabin number: 156 : O
+    Cabin number: 157 : O
+    Cabin number: 158 : O
+    Cabin number: 159 : O
+    Cabin number: 160 : O
+    Cabin number: 161 : O
+    Cabin number: 162 : O
+    Cabin number: 163 : O
+    Cabin number: 164 : O
+    Cabin number: 165 : O
+    Cabin number: 166 : O
+    Cabin number: 167 : O
+    Cabin number: 168 : O
+    Cabin number: 169 : O
+    Cabin number: 170 : O
+    Cabin number: 171 : O
+    Cabin number: 172 : O
+    Cabin number: 173 : O
+    Cabin number: 174 : O
+    Cabin number: 175 : O
+    Cabin number: 176 : O
+    Cabin number: 177 : O
+    Cabin number: 178 : O
+    Cabin number: 179 : O
+    Cabin number: 180 : O
+    Cabin number: 181 : O
+    Cabin number: 182 : O
+    Cabin number: 183 : O
+    Cabin number: 184 : O
+    Cabin number: 185 : O
+    Cabin number: 186 : O
+    Cabin number: 187 : O
+    Cabin number: 188 : O
+    Cabin number: 189 : O
+    Cabin number: 190 : O
+    Cabin number: 191 : O
+    Cabin number: 192 : O
+    Cabin number: 193 : O
+    Cabin number: 194 : O
+    Cabin number: 195 : O
+    Cabin number: 196 : O
+    Cabin number: 197 : O
+    Cabin number: 198 : O
+    Cabin number: 199 : O
+    Cabin number: 200 : O
+    Cabin number: 201 : O
+    Cabin number: 202 : O
+    Cabin number: 203 : O
+    Cabin number: 204 : O
+    Cabin number: 205 : O
+    Cabin number: 206 : O
+    Cabin number: 207 : O
+    Cabin number: 208 : O
+    Cabin number: 209 : O
+    Cabin number: 210 : O
+    Cabin number: 211 : O
+    Cabin number: 212 : O
+    Cabin number: 213 : O
+    Cabin number: 214 : O
+    Cabin number: 215 : O
+    Cabin number: 216 : O
+    Cabin number: 217 : O
+    Cabin number: 218 : O
+    Cabin number: 219 : O
+    Cabin number: 220 : O
+    Cabin number: 221 : O
+    Cabin number: 222 : O
+    Cabin number: 223 : O
+    Cabin number: 224 : O
+    Cabin number: 225 : O
+    Cabin number: 226 : O
+    Cabin number: 227 : O
+    Cabin number: 228 : O
+    Cabin number: 229 : O
+    Cabin number: 230 : O
+    Cabin number: 231 : O
+    Cabin number: 232 : O
+    Cabin number: 233 : O
+    Cabin number: 234 : O
+    Cabin number: 235 : O
+    Cabin number: 236 : O
+    Cabin number: 237 : O
+    Cabin number: 238 : O
+    Cabin number: 239 : O
+    Cabin number: 240 : O
+    Cabin number: 241 : O
+    Cabin number: 242 : O
+    Cabin number: 243 : O
+    Cabin number: 244 : O
+    Cabin number: 245 : O
+    Cabin number: 246 : O
+    Cabin number: 247 : O
+    Cabin number: 248 : O
+    Cabin number: 249 : O
+    Cabin number: 250 : O
+    Cabin number: 251 : O
+    Cabin number: 252 : O
+    Cabin number: 253 : O
+    Cabin number: 254 : O
+    Cabin number: 255 : O
+    Cabin number: 256 : O
+    Cabin number: 257 : O
+    Cabin number: 258 : O
+    Cabin number: 259 : O
+    Cabin number: 260 : O
+    Cabin number: 261 : O
+    Cabin number: 262 : O
+    Cabin number: 263 : O
+    Cabin number: 264 : O
+    Cabin number: 265 : O
+    Cabin number: 266 : O
+    Cabin number: 267 : O
+    Cabin number: 268 : O
+    Cabin number: 269 : O
+    Cabin number: 270 : O
+    Cabin number: 271 : O
+    Cabin number: 272 : O
+    Cabin number: 273 : O
+    Cabin number: 274 : O
+    Cabin number: 275 : O
+    Cabin number: 276 : O
+    Cabin number: 277 : O
+    Cabin number: 278 : O
+    Cabin number: 279 : O
+    Cabin number: 280 : O
+    Cabin number: 281 : O
+    Cabin number: 282 : O
+    Cabin number: 283 : O
+    Cabin number: 284 : O
+    Cabin number: 285 : O
+    Cabin number: 286 : O
+    Cabin number: 287 : O
+    Cabin number: 288 : O
+    Cabin number: 289 : O
+    Cabin number: 290 : O
+    Cabin number: 291 : O
+    Cabin number: 292 : O
+    Cabin number: 293 : O
+    Cabin number: 294 : O
+    Cabin number: 295 : O
+    Cabin number: 296 : O
+    Cabin number: 297 : O
+    Cabin number: 298 : O
+    Cabin number: 299 : O
+    Cabin number: 300 : O
+    Cabin number: 301 : O
+    Cabin number: 302 : O
+    Cabin number: 303 : O
+    Cabin number: 304 : O
+    Cabin number: 305 : O
+    Cabin number: 306 : O
+    Cabin number: 307 : O
+    Cabin number: 308 : O
+    Cabin number: 309 : O
+    Cabin number: 310 : O
+    Cabin number: 311 : O
+    Cabin number: 312 : O
+    Cabin number: 313 : O
+    Cabin number: 314 : O
+    Cabin number: 315 : O
+    Cabin number: 316 : O
+    Cabin number: 317 : O
+    Cabin number: 318 : O
+    Cabin number: 319 : O
+    Cabin number: 320 : O
+    Cabin number: 321 : O
+    Cabin number: 322 : O
+    Cabin number: 323 : O
+    Cabin number: 324 : O
+    Cabin number: 325 : O
+    Cabin number: 326 : O
+    Cabin number: 327 : O
+    Cabin number: 328 : O
+    Cabin number: 329 : O
+    Cabin number: 330 : O
+    Cabin number: 331 : O
+    Cabin number: 332 : O
+    Cabin number: 333 : O
+    Cabin number: 334 : O
+    Cabin number: 335 : O
+    Cabin number: 336 : O
+    Cabin number: 337 : O
+    Cabin number: 338 : O
+    Cabin number: 339 : O
+    Cabin number: 340 : O
+    Cabin number: 341 : O
+    Cabin number: 342 : O
+    Cabin number: 343 : O
+    Cabin number: 344 : O
+    Cabin number: 345 : O
+    Cabin number: 346 : O
+    Cabin number: 347 : O
+    Cabin number: 348 : O
+    Cabin number: 349 : O
+    Cabin number: 350 : O
+    Cabin number: 351 : O
+    Cabin number: 352 : O
+    Cabin number: 353 : O
+    Cabin number: 354 : O
+    Cabin number: 355 : O
+    Cabin number: 356 : O
+    Cabin number: 357 : O
+    Cabin number: 358 : O
+    Cabin number: 359 : O
+    Cabin number: 360 : O
+    Cabin number: 361 : O
+    Cabin number: 362 : O
+    Cabin number: 363 : O
+    Cabin number: 364 : O
+    Cabin number: 365 : O
+    Cabin number: 366 : O
+    Cabin number: 367 : O
+    Cabin number: 368 : O
+    Cabin number: 369 : O
+    Cabin number: 370 : O
+    Cabin number: 371 : O
+    Cabin number: 372 : O
+    Cabin number: 373 : O
+    Cabin number: 374 : O
+    Cabin number: 375 : O
+    Cabin number: 376 : O
+    Cabin number: 377 : O
+    Cabin number: 378 : O
+    Cabin number: 379 : O
+    Cabin number: 380 : O
+    Cabin number: 381 : O
+    Cabin number: 382 : O
+    Cabin number: 383 : O
+    Cabin number: 384 : O
+    Cabin number: 385 : O
+    Cabin number: 386 : O
+    Cabin number: 387 : O
+    Cabin number: 388 : O
+    Cabin number: 389 : O
+    Cabin number: 390 : O
+    Cabin number: 391 : O
+    Cabin number: 392 : O
+    Cabin number: 393 : O
+    Cabin number: 394 : O
+    Cabin number: 395 : O
+    Cabin number: 396 : O
+    Cabin number: 397 : O
+    Cabin number: 398 : O
+    Cabin number: 399 : O
+    Cabin number: 400 : O
+    Cabin number: 401 : O
+    Cabin number: 402 : O
+    Cabin number: 403 : O
+    Cabin number: 404 : O
+    Cabin number: 405 : O
+    Cabin number: 406 : O
+    Cabin number: 407 : O
+    Cabin number: 408 : O
+    Cabin number: 409 : O
+    Cabin number: 410 : O
+    Cabin number: 411 : O
+    Cabin number: 412 : O
+    Cabin number: 413 : O
+    Cabin number: 414 : O
+    Cabin number: 415 : O
+    Cabin number: 416 : O
+    Cabin number: 417 : O
+    Cabin number: 418 : O
+    Cabin number: 419 : O
+    Cabin number: 420 : O
+    Cabin number: 421 : O
+    Cabin number: 422 : O
+    Cabin number: 423 : O
+    Cabin number: 424 : O
+    Cabin number: 425 : O
+    Cabin number: 426 : O
+    Cabin number: 427 : O
+    Cabin number: 428 : O
+    Cabin number: 429 : O
+    Cabin number: 430 : O
+    Cabin number: 431 : O
+    Cabin number: 432 : O
+    Cabin number: 433 : O
+    Cabin number: 434 : O
+    Cabin number: 435 : O
+    Cabin number: 436 : O
+    Cabin number: 437 : O
+    Cabin number: 438 : O
+    Cabin number: 439 : O
+    Cabin number: 440 : O
+    Cabin number: 441 : O
+    Cabin number: 442 : O
+    Cabin number: 443 : O
+    Cabin number: 444 : O
+    Cabin number: 445 : O
+    Cabin number: 446 : O
+    Cabin number: 447 : O
+    Cabin number: 448 : O
+    Cabin number: 449 : O
+    Cabin number: 450 : O
+    Cabin number: 451 : O
+    Cabin number: 452 : O
+    Cabin number: 453 : O
+    Cabin number: 454 : O
+    Cabin number: 455 : O
+    Cabin number: 456 : O
+    Cabin number: 457 : O
+    Cabin number: 458 : O
+    Cabin number: 459 : O
+    Cabin number: 460 : O
+    Cabin number: 461 : O
+    Cabin number: 462 : O
+    Cabin number: 463 : O
+    Cabin number: 464 : O
+    Cabin number: 465 : O
+    Cabin number: 466 : O
+    Cabin number: 467 : O
+    Cabin number: 468 : O
+    Cabin number: 469 : O
+    Cabin number: 470 : O
+    Cabin number: 471 : O
+    Cabin number: 472 : O
+    Cabin number: 473 : O
+    Cabin number: 474 : O
+    Cabin number: 475 : O
+    Cabin number: 476 : O
+    Cabin number: 477 : O
+    Cabin number: 478 : O
+    Cabin number: 479 : O
+    Cabin number: 480 : O
+    Cabin number: 481 : O
+    Cabin number: 482 : O
+    Cabin number: 483 : O
+    Cabin number: 484 : O
+    Cabin number: 485 : O
+    Cabin number: 486 : O
+    Cabin number: 487 : O
+    Cabin number: 488 : O
+    Cabin number: 489 : O
+    Cabin number: 490 : O
+    Cabin number: 491 : O
+    Cabin number: 492 : O
+    Cabin number: 493 : O
+    Cabin number: 494 : O
+    Cabin number: 495 : O
+    Cabin number: 496 : O
+    Cabin number: 497 : O
+    Cabin number: 498 : O
+    Cabin number: 499 : O
+    Cabin number: 500 : O
+    Cabin number: 501 : O
+    Cabin number: 502 : O
+    Cabin number: 503 : O
+    Cabin number: 504 : O
+    Cabin number: 505 : O
+    Cabin number: 506 : O
+    Cabin number: 507 : O
+    Cabin number: 508 : O
+    Cabin number: 509 : O
+    Cabin number: 510 : O
+    Cabin number: 511 : O
+    Cabin number: 512 : O
+    Cabin number: 513 : O
+    Cabin number: 514 : O
+    Cabin number: 515 : O
+    Cabin number: 516 : O
+    Cabin number: 517 : O
+    Cabin number: 518 : O
+    Cabin number: 519 : O
+    Cabin number: 520 : O
+    Cabin number: 521 : O
+    Cabin number: 522 : O
+    Cabin number: 523 : O
+    Cabin number: 524 : O
+    Cabin number: 525 : O
+    Cabin number: 526 : O
+    Cabin number: 527 : O
+    Cabin number: 528 : O
+    Cabin number: 529 : O
+    Cabin number: 530 : O
+    Cabin number: 531 : O
+    Cabin number: 532 : O
+    Cabin number: 533 : O
+    Cabin number: 534 : O
+    Cabin number: 535 : O
+    Cabin number: 536 : O
+    Cabin number: 537 : O
+    Cabin number: 538 : O
+    Cabin number: 539 : O
+    Cabin number: 540 : O
+    Cabin number: 541 : O
+    Cabin number: 542 : O
+    Cabin number: 543 : O
+    Cabin number: 544 : O
+    Cabin number: 545 : O
+    Cabin number: 546 : O
+    Cabin number: 547 : O
+    Cabin number: 548 : O
+    Cabin number: 549 : O
+    Cabin number: 550 : O
+    Cabin number: 551 : O
+    Cabin number: 552 : O
+    Cabin number: 553 : O
+    Cabin number: 554 : O
+    Cabin number: 555 : O
+    Cabin number: 556 : O
+    Cabin number: 557 : O
+    Cabin number: 558 : O
+    Cabin number: 559 : O
+    Cabin number: 560 : O
+    Cabin number: 561 : O
+    Cabin number: 562 : O
+    Cabin number: 563 : O
+    Cabin number: 564 : O
+    Cabin number: 565 : O
+    Cabin number: 566 : O
+    Cabin number: 567 : O
+    Cabin number: 568 : O
+    Cabin number: 569 : O
+    Cabin number: 570 : O
+    Cabin number: 571 : O
+    Cabin number: 572 : O
+    Cabin number: 573 : O
+    Cabin number: 574 : O
+    Cabin number: 575 : O
+    Cabin number: 576 : O
+    Cabin number: 577 : O
+    Cabin number: 578 : O
+    Cabin number: 579 : O
+    Cabin number: 580 : O
+    Cabin number: 581 : O
+    Cabin number: 582 : O
+    Cabin number: 583 : O
+    Cabin number: 584 : O
+    Cabin number: 585 : O
+    Cabin number: 586 : O
+    Cabin number: 587 : O
+    Cabin number: 588 : O
+    Cabin number: 589 : O
+    Cabin number: 590 : O
+    Cabin number: 591 : O
+    Cabin number: 592 : O
+    Cabin number: 593 : O
+    Cabin number: 594 : O
+    Cabin number: 595 : O
+    Cabin number: 596 : O
+    Cabin number: 597 : O
+    Cabin number: 598 : O
+    Cabin number: 599 : O
+    Cabin number: 600 : O
+    Cabin number: 601 : O
+    Cabin number: 602 : O
+    Cabin number: 603 : O
+    Cabin number: 604 : O
+    Cabin number: 605 : O
+    Cabin number: 606 : O
+    Cabin number: 607 : O
+    Cabin number: 608 : O
+    Cabin number: 609 : O
+    Cabin number: 610 : O
+    Cabin number: 611 : O
+    Cabin number: 612 : O
+    Cabin number: 613 : O
+    Cabin number: 614 : O
+    Cabin number: 615 : O
+    Cabin number: 616 : O
+    Cabin number: 617 : O
+    Cabin number: 618 : O
+    Cabin number: 619 : O
+    Cabin number: 620 : O
+    Cabin number: 621 : O
+    Cabin number: 622 : O
+    Cabin number: 623 : O
+    Cabin number: 624 : O
+    Cabin number: 625 : O
+    Cabin number: 626 : O
+    Cabin number: 627 : O
+    Cabin number: 628 : O
+    Cabin number: 629 : O
+    Cabin number: 630 : O
+    Cabin number: 631 : O
+    Cabin number: 632 : O
+    Cabin number: 633 : O
+    Cabin number: 634 : O
+    Cabin number: 635 : O
+    Cabin number: 636 : O
+    Cabin number: 637 : O
+    Cabin number: 638 : O
+    Cabin number: 639 : O
+    Cabin number: 640 : O
+    Cabin number: 641 : O
+    Cabin number: 642 : O
+    Cabin number: 643 : O
+    Cabin number: 644 : O
+    Cabin number: 645 : O
+    Cabin number: 646 : O
+    Cabin number: 647 : O
+    Cabin number: 648 : O
+    Cabin number: 649 : O
+    Cabin number: 650 : O
+    Cabin number: 651 : O
+    Cabin number: 652 : O
+    Cabin number: 653 : O
+    Cabin number: 654 : O
+    Cabin number: 655 : O
+    Cabin number: 656 : O
+    Cabin number: 657 : O
+    Cabin number: 658 : O
+    Cabin number: 659 : O
+    Cabin number: 660 : O
+    Cabin number: 661 : O
+    Cabin number: 662 : O
+    Cabin number: 663 : O
+    Cabin number: 664 : O
+    Cabin number: 665 : O
+    Cabin number: 666 : O
+    Cabin number: 667 : O
+    Cabin number: 668 : O
+    Cabin number: 669 : O
+    Cabin number: 670 : O
+    Cabin number: 671 : O
+    Cabin number: 672 : O
+    Cabin number: 673 : O
+    Cabin number: 674 : O
+    Cabin number: 675 : O
+    Cabin number: 676 : O
+    Cabin number: 677 : O
+    Cabin number: 678 : O
+    Cabin number: 679 : O
+    Cabin number: 680 : O
+    Cabin number: 681 : O
+    Cabin number: 682 : O
+    Cabin number: 683 : O
+    Cabin number: 684 : O
+    Cabin number: 685 : O
+    Cabin number: 686 : O
+    Cabin number: 687 : O
+    Cabin number: 688 : O
+    Cabin number: 689 : O
+    Cabin number: 690 : O
+    Cabin number: 691 : O
+    Cabin number: 692 : O
+    Cabin number: 693 : O
+    Cabin number: 694 : O
+    Cabin number: 695 : O
+    Cabin number: 696 : O
+    Cabin number: 697 : O
+    Cabin number: 698 : O
+    Cabin number: 699 : O
+    Cabin number: 700 : O
+    Cabin number: 701 : O
+    Cabin number: 702 : O
+    Cabin number: 703 : O
+    Cabin number: 704 : O
+    Cabin number: 705 : O
+    Cabin number: 706 : O
+    Cabin number: 707 : O
+    Cabin number: 708 : O
+    Cabin number: 709 : O
+    Cabin number: 710 : O
+    Cabin number: 711 : O
+    Cabin number: 712 : O
+    Cabin number: 713 : O
+    Cabin number: 714 : O
+    Cabin number: 715 : O
+    Cabin number: 716 : O
+    Cabin number: 717 : O
+    Cabin number: 718 : O
+    Cabin number: 719 : O
+    Cabin number: 720 : O
+    Cabin number: 721 : O
+    Cabin number: 722 : O
+    Cabin number: 723 : O
+    Cabin number: 724 : O
+    Cabin number: 725 : O
+    Cabin number: 726 : O
+    Cabin number: 727 : O
+    Cabin number: 728 : O
+    Cabin number: 729 : O
+    Cabin number: 730 : O
+    Cabin number: 731 : O
+    Cabin number: 732 : O
+    Cabin number: 733 : O
+    Cabin number: 734 : O
+    Cabin number: 735 : O
+    Cabin number: 736 : O
+    Cabin number: 737 : O
+    Cabin number: 738 : O
+    Cabin number: 739 : O
+    Cabin number: 740 : O
+    Cabin number: 741 : O
+    Cabin number: 742 : O
+    Cabin number: 743 : O
+    Cabin number: 744 : O
+    Cabin number: 745 : O
+    Cabin number: 746 : O
+    Cabin number: 747 : O
+    Cabin number: 748 : O
+    Cabin number: 749 : O
+    Cabin number: 750 : O
+    Cabin number: 751 : O
+    Cabin number: 752 : O
+    Cabin number: 753 : O
+    Cabin number: 754 : O
+    Cabin number: 755 : O
+    Cabin number: 756 : O
+    Cabin number: 757 : O
+    Cabin number: 758 : O
+    Cabin number: 759 : O
+    Cabin number: 760 : O
+    Cabin number: 761 : O
+    Cabin number: 762 : O
+    Cabin number: 763 : O
+    Cabin number: 764 : O
+    Cabin number: 765 : O
+    Cabin number: 766 : O
+    Cabin number: 767 : O
+    Cabin number: 768 : O
+    Cabin number: 769 : O
+    Cabin number: 770 : O
+    Cabin number: 771 : O
+    Cabin number: 772 : O
+    Cabin number: 773 : O
+    Cabin number: 774 : O
+    Cabin number: 775 : O
+    Cabin number: 776 : O
+    Cabin number: 777 : O
+    Cabin number: 778 : O
+    Cabin number: 779 : O
+    Cabin number: 780 : O
+    Cabin number: 781 : O
+    Cabin number: 782 : O
+    Cabin number: 783 : O
+    Cabin number: 784 : O
+    Cabin number: 785 : O
+    Cabin number: 786 : O
+    Cabin number: 787 : O
+    Cabin number: 788 : O
+    Cabin number: 789 : O
+    Cabin number: 790 : O
+    Cabin number: 791 : O
+    Cabin number: 792 : O
+    Cabin number: 793 : O
+    Cabin number: 794 : O
+    Cabin number: 795 : O
+    Cabin number: 796 : O
+    Cabin number: 797 : O
+    Cabin number: 798 : O
+    Cabin number: 799 : O
+    Cabin number: 800 : O
+    Cabin number: 801 : O
+    Cabin number: 802 : O
+    Cabin number: 803 : O
+    Cabin number: 804 : O
+    Cabin number: 805 : O
+    Cabin number: 806 : O
+    Cabin number: 807 : O
+    Cabin number: 808 : O
+    Cabin number: 809 : O
+    Cabin number: 810 : O
+    Cabin number: 811 : O
+    Cabin number: 812 : O
+    Cabin number: 813 : O
+    Cabin number: 814 : O
+    Cabin number: 815 : O
+    Cabin number: 816 : O
+    Cabin number: 817 : O
+    Cabin number: 818 : O
+    Cabin number: 819 : O
+    Cabin number: 820 : O
+    Cabin number: 821 : O
+    Cabin number: 822 : O
+    Cabin number: 823 : O
+    Cabin number: 824 : O
+    Cabin number: 825 : O
+    Cabin number: 826 : O
+    Cabin number: 827 : O
+    Cabin number: 828 : O
+    Cabin number: 829 : O
+    Cabin number: 830 : O
+    Cabin number: 831 : O
+    Cabin number: 832 : O
+    Cabin number: 833 : O
+    Cabin number: 834 : O
+    Cabin number: 835 : O
+    Cabin number: 836 : O
+    Cabin number: 837 : O
+    Cabin number: 838 : O
+    Cabin number: 839 : O
+    Cabin number: 840 : O
+    Cabin number: 841 : O
+    Cabin number: 842 : O
+    Cabin number: 843 : O
+    Cabin number: 844 : O
+    Cabin number: 845 : O
+    Cabin number: 846 : O
+    Cabin number: 847 : O
+    Cabin number: 848 : O
+    Cabin number: 849 : O
+    Cabin number: 850 : O
+    Cabin number: 851 : O
+    Cabin number: 852 : O
+    Cabin number: 853 : O
+    Cabin number: 854 : O
+    Cabin number: 855 : O
+    Cabin number: 856 : O
+    Cabin number: 857 : O
+    Cabin number: 858 : O
+    Cabin number: 859 : O
+    Cabin number: 860 : O
+    Cabin number: 861 : O
+    Cabin number: 862 : O
+    Cabin number: 863 : O
+    Cabin number: 864 : O
+    Cabin number: 865 : O
+    Cabin number: 866 : O
+    Cabin number: 867 : O
+    Cabin number: 868 : O
+    Cabin number: 869 : O
+    Cabin number: 870 : O
+    Cabin number: 871 : O
+    Cabin number: 872 : O
+    Cabin number: 873 : O
+    Cabin number: 874 : O
+    Cabin number: 875 : O
+    Cabin number: 876 : O
+    Cabin number: 877 : O
+    Cabin number: 878 : O
+    Cabin number: 879 : O
+    Cabin number: 880 : O
+    Cabin number: 881 : O
+    Cabin number: 882 : O
+    Cabin number: 883 : O
+    Cabin number: 884 : O
+    Cabin number: 885 : O
+    Cabin number: 886 : O
+    Cabin number: 887 : O
+    Cabin number: 888 : O
+    Cabin number: 889 : O
+    Cabin number: 890 : O
+    Cabin number: 891 : O
+    Cabin number: 892 : O
+    Cabin number: 893 : O
+    Cabin number: 894 : O
+    Cabin number: 895 : O
+    Cabin number: 896 : O
+    Cabin number: 897 : O
+    Cabin number: 898 : O
+    Cabin number: 899 : O
+    Cabin number: 900 : O
+    Cabin number: 901 : O
+    Cabin number: 902 : O
+    Cabin number: 903 : O
+    Cabin number: 904 : O
+    Cabin number: 905 : O
+    Cabin number: 906 : O
+    Cabin number: 907 : O
+    Cabin number: 908 : O
+    Cabin number: 909 : O
+    Cabin number: 910 : O
+    Cabin number: 911 : O
+    Cabin number: 912 : O
+    Cabin number: 913 : O
+    Cabin number: 914 : O
+    Cabin number: 915 : O
+    Cabin number: 916 : O
+    Cabin number: 917 : O
+    Cabin number: 918 : O
+    Cabin number: 919 : O
+    Cabin number: 920 : O
+    Cabin number: 921 : O
+    Cabin number: 922 : O
+    Cabin number: 923 : O
+    Cabin number: 924 : O
+    Cabin number: 925 : O
+    Cabin number: 926 : O
+    Cabin number: 927 : O
+    Cabin number: 928 : O
+    Cabin number: 929 : O
+    Cabin number: 930 : O
+    Cabin number: 931 : O
+    Cabin number: 932 : O
+    Cabin number: 933 : O
+    Cabin number: 934 : O
+    Cabin number: 935 : O
+    Cabin number: 936 : O
+    Cabin number: 937 : O
+    Cabin number: 938 : O
+    Cabin number: 939 : O
+    Cabin number: 940 : O
+    Cabin number: 941 : O
+    Cabin number: 942 : O
+    Cabin number: 943 : O
+    Cabin number: 944 : O
+    Cabin number: 945 : O
+    Cabin number: 946 : O
+    Cabin number: 947 : O
+    Cabin number: 948 : O
+    Cabin number: 949 : O
+    Cabin number: 950 : O
+    Cabin number: 951 : O
+    Cabin number: 952 : O
+    Cabin number: 953 : O
+    Cabin number: 954 : O
+    Cabin number: 955 : O
+    Cabin number: 956 : O
+    Cabin number: 957 : O
+    Cabin number: 958 : O
+    Cabin number: 959 : O
+    Cabin number: 960 : O
+    Cabin number: 961 : O
+    Cabin number: 962 : O
+    Cabin number: 963 : O
+    Cabin number: 964 : O
+    Cabin number: 965 : O
+    Cabin number: 966 : O
+    Cabin number: 967 : O
+    Cabin number: 968 : O
+    Cabin number: 969 : O
+    Cabin number: 970 : O
+    Cabin number: 971 : O
+    Cabin number: 972 : O
+    Cabin number: 973 : O
+    Cabin number: 974 : O
+    Cabin number: 975 : O
+    Cabin number: 976 : O
+    Cabin number: 977 : O
+    Cabin number: 978 : O
+    Cabin number: 979 : O
+    Cabin number: 980 : O
+    Cabin number: 981 : O
+    Cabin number: 982 : O
+    Cabin number: 983 : O
+    Cabin number: 984 : O
+    Cabin number: 985 : O
+    Cabin number: 986 : O
+    Cabin number: 987 : O
+    Cabin number: 988 : O
+    Cabin number: 989 : O
+    Cabin number: 990 : O
+    Cabin number: 991 : O
+    Cabin number: 992 : O
+    Cabin number: 993 : O
+    Cabin number: 994 : O
+    Cabin number: 995 : O
+    Cabin number: 996 : O
+    Cabin number: 997 : O
+    Cabin number: 998 : O
+    Cabin number: 999 : O
+    Cabin number: 1000 : O
+    
+    Deluxe Family cabin price: 1500
+    Deck: C
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    Cabin number: 13 : O
+    Cabin number: 14 : O
+    Cabin number: 15 : O
+    Cabin number: 16 : O
+    Cabin number: 17 : O
+    Cabin number: 18 : O
+    Cabin number: 19 : O
+    Cabin number: 20 : O
+    Cabin number: 21 : O
+    Cabin number: 22 : O
+    Cabin number: 23 : O
+    Cabin number: 24 : O
+    Cabin number: 25 : O
+    Cabin number: 26 : O
+    Cabin number: 27 : O
+    Cabin number: 28 : O
+    Cabin number: 29 : O
+    Cabin number: 30 : O
+    Cabin number: 31 : O
+    Cabin number: 32 : O
+    Cabin number: 33 : O
+    Cabin number: 34 : O
+    Cabin number: 35 : O
+    Cabin number: 36 : O
+    Cabin number: 37 : O
+    Cabin number: 38 : O
+    Cabin number: 39 : O
+    Cabin number: 40 : O
+    Cabin number: 41 : O
+    Cabin number: 42 : O
+    Cabin number: 43 : O
+    Cabin number: 44 : O
+    Cabin number: 45 : O
+    Cabin number: 46 : O
+    Cabin number: 47 : O
+    Cabin number: 48 : O
+    Cabin number: 49 : O
+    Cabin number: 50 : O
+    
+    Couples cabin price: 1500
+    Deck: B
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    Cabin number: 13 : O
+    Cabin number: 14 : O
+    Cabin number: 15 : O
+    Cabin number: 16 : O
+    Cabin number: 17 : O
+    Cabin number: 18 : O
+    Cabin number: 19 : O
+    Cabin number: 20 : O
+    Cabin number: 21 : O
+    Cabin number: 22 : O
+    Cabin number: 23 : O
+    Cabin number: 24 : O
+    
+    Deluxe Couples cabin price: 2000
+    Deck: A
+    Cabin number: 1 : O
+    Cabin number: 2 : O
+    Cabin number: 3 : O
+    Cabin number: 4 : O
+    Cabin number: 5 : O
+    Cabin number: 6 : O
+    Cabin number: 7 : O
+    Cabin number: 8 : O
+    Cabin number: 9 : O
+    Cabin number: 10 : O
+    Cabin number: 11 : O
+    Cabin number: 12 : O
+    
+    
+    Cruiseline booking Admin menu: ACTBS
+    1: Add Seaport                2: Add Cruiseline
+    3: Add Cruise                 4: Add Class
+    5: Change Cabin Price by Orig/Dest
+    6: Change Cabin Price by Curise
+    7: Display System Details     8: Exit Menu
+    Options: 8
+    Exiting Menu.
+    
+    Menus:
+    Cruise Admin, Cruise Customer
+    Flight Admin, Flight Customer
+    or type exit to end the system
+    Options: Flight Admin
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 9
+    
+    System Details, Booked seat are marked as X
+    
+    Airports:
+    DEN
+    NYC
+    SEA
+    LAX
+    LHR
+    GEG
+    SFO
+    NHD
+    PDX
+    JFK
+    SOL
+    LGB
+    MSK
+    LFO
+    NDX
+    
+    Airlines:
+    AMER
+    Flights:
+    Flight Number: AA1
+    Origin: DEN
+    Destination: LAX
+    Airline Name: AMER
+    Flight date: 2011/10/8
+    Flight time: 16:30
+    Sections:
+    First class: seat price: 500
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+    
+    Flight Number: AA2
+    Origin: LAX
+    Destination: DEN
+    Airline Name: AMER
+    Flight date: 2011/8/9
+    Flight time: 7:30
+    Sections:
+    First class: seat price: 500
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+    
+    Flight Number: AA3
+    Origin: GEG
+    Destination: PDX
+    Airline Name: AMER
+    Flight date: 2016/5/10
+    Flight time: 5:00
+    Sections:
+    First class: seat price: 5000
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Business class: seat price: 2500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 1000
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    11(OOO_OOOO_OOO)
+    12(OOO_OOOO_OOO)
+    13(OOO_OOOO_OOO)
+    14(OOO_OOOO_OOO)
+    15(OOO_OOOO_OOO)
+    16(OOO_OOOO_OOO)
+    17(OOO_OOOO_OOO)
+    18(OOO_OOOO_OOO)
+    19(OOO_OOOO_OOO)
+    20(OOO_OOOO_OOO)
+    
+    UNTD
+    Flights:
+    Flight Number: UA21
+    Origin: NYC
+    Destination: SEA
+    Airline Name: UNTD
+    Flight date: 2011/11/8
+    Flight time: 12:30
+    Sections:
+    First class: seat price: 800
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 300
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+    
+    Flight Number: UA12
+    Origin: SEA
+    Destination: DEN
+    Airline Name: UNTD
+    Flight date: 2011/8/9
+    Flight time: 7:30
+    Sections:
+    First class: seat price: 1200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 700
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+    
+    Economy class: seat price: 100
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+     7(O_OO)
+     8(O_OO)
+    
+    DELTA
+    Flights:
+    Flight Number: D1100
+    Origin: GEG
+    Destination: LAX
+    Airline Name: DELTA
+    Flight date: 2016/3/20
+    Flight time: 5:00
+    Sections:
+    First class: seat price: 50000
+       AB_CD
+     1(OO_OO)
+     2(OO_OO)
+     3(OO_OO)
+     4(OO_OO)
+    
+    Business class: seat price: 500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 200
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    Flight Number: D1101
+    Origin: GEG
+    Destination: LAX
+    Airline Name: DELTA
+    Flight date: 2016/5/20
+    Flight time: 10:00
+    Sections:
+    First class: seat price: 20000
+       AB_CD
+     1(OO_OO)
+     2(OO_OO)
+     3(OO_OO)
+     4(OO_OO)
+    
+    Business class: seat price: 500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 200
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 1
+    
+    Enter the number of airport: 1
+    Enter the name of the Airport: JPL
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 2
+    
+    Enter the number of airline: 1
+    Enter the name of the Airline: USAIR
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 3
+    
+    Enter the number of Flight: 1
+    
+    Enter the name of the Airline: USAIR
+    Enter the Origin: JPL
+    Enter the Destination: NDX
+    Enter the date(YYYY MM DD): 2020 05 05
+    Enter the time(HH MM): 10 00
+    Enter the Flight ID: US1000
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 4
+    
+    Enter the number of Section: 3
+    
+    Enter the name of the Airline: USAIR
+    Enter the Flight ID: US1000
+    Enter the number of row: 2
+    Enter the price of the section: 1000
+    Enter the layout (S/M/W): S
+    Enter the seat class(F/B/E): F
+    
+    Enter the name of the Airline: USAIR
+    Enter the Flight ID: US1000
+    Enter the number of row: 4
+    Enter the price of the section: 800
+    Enter the layout (S/M/W): S
+    Enter the seat class(F/B/E): B
+    
+    Enter the name of the Airline: USAIR
+    Enter the Flight ID: US1000
+    Enter the number of row: 8
+    Enter the price of the section: 400
+    Enter the layout (S/M/W): S
+    Enter the seat class(F/B/E): E
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 9
+    
+    System Details, Booked seat are marked as X
+    
+    Airports:
+    DEN
+    NYC
+    SEA
+    LAX
+    LHR
+    GEG
+    SFO
+    NHD
+    PDX
+    JFK
+    SOL
+    LGB
+    MSK
+    LFO
+    NDX
+    JPL
+    
+    Airlines:
+    AMER
+    Flights:
+    Flight Number: AA1
+    Origin: DEN
+    Destination: LAX
+    Airline Name: AMER
+    Flight date: 2011/10/8
+    Flight time: 16:30
+    Sections:
+    First class: seat price: 500
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+    
+    Flight Number: AA2
+    Origin: LAX
+    Destination: DEN
+    Airline Name: AMER
+    Flight date: 2011/8/9
+    Flight time: 7:30
+    Sections:
+    First class: seat price: 500
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+    
+    Flight Number: AA3
+    Origin: GEG
+    Destination: PDX
+    Airline Name: AMER
+    Flight date: 2016/5/10
+    Flight time: 5:00
+    Sections:
+    First class: seat price: 5000
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Business class: seat price: 2500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 1000
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    11(OOO_OOOO_OOO)
+    12(OOO_OOOO_OOO)
+    13(OOO_OOOO_OOO)
+    14(OOO_OOOO_OOO)
+    15(OOO_OOOO_OOO)
+    16(OOO_OOOO_OOO)
+    17(OOO_OOOO_OOO)
+    18(OOO_OOOO_OOO)
+    19(OOO_OOOO_OOO)
+    20(OOO_OOOO_OOO)
+    
+    UNTD
+    Flights:
+    Flight Number: UA21
+    Origin: NYC
+    Destination: SEA
+    Airline Name: UNTD
+    Flight date: 2011/11/8
+    Flight time: 12:30
+    Sections:
+    First class: seat price: 800
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 300
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+    
+    Flight Number: UA12
+    Origin: SEA
+    Destination: DEN
+    Airline Name: UNTD
+    Flight date: 2011/8/9
+    Flight time: 7:30
+    Sections:
+    First class: seat price: 1200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 700
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+    
+    Economy class: seat price: 100
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+     7(O_OO)
+     8(O_OO)
+    
+    DELTA
+    Flights:
+    Flight Number: D1100
+    Origin: GEG
+    Destination: LAX
+    Airline Name: DELTA
+    Flight date: 2016/3/20
+    Flight time: 5:00
+    Sections:
+    First class: seat price: 50000
+       AB_CD
+     1(OO_OO)
+     2(OO_OO)
+     3(OO_OO)
+     4(OO_OO)
+    
+    Business class: seat price: 500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 200
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    Flight Number: D1101
+    Origin: GEG
+    Destination: LAX
+    Airline Name: DELTA
+    Flight date: 2016/5/20
+    Flight time: 10:00
+    Sections:
+    First class: seat price: 20000
+       AB_CD
+     1(OO_OO)
+     2(OO_OO)
+     3(OO_OO)
+     4(OO_OO)
+    
+    Business class: seat price: 500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 200
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    USAIR
+    Flight:
+    Flight Number: US1000
+    Origin: JPL
+    Destination: NDX
+    Airline Name: USAIR
+    Flight date: 2020/5/5
+    Flight time: 10:00
+    Sections:
+    First class: seat price: 1000
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 800
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+    
+    Economy class: seat price: 400
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+     7(O_OO)
+     8(O_OO)
+    
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 10
+    Exiting menu.
+    
+    Menus:
+    Cruise Admin, Cruise Customer
+    Flight Admin, Flight Customer
+    or type exit to end the system
+    Options: Flight Customer
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 4
+    
+    Enter the Origin: JPL
+    Enter the Destination: NDX
+    Enter the date (YYYY MM DD): 2020 05 05
+    Enter the time (HH MM): 10 00
+    
+    Displaying available flights with Origin: JPL and Destination: NDX
+    Available seats are maked as O, and booked seat are marked as X.
+    
+    Available flight(s) from USAIR on given date 2020/5/5 @ 10:00
+    Flight Number: US1000
+    Origin: JPL
+    Destination: NDX
+    Airline Name: USAIR
+    Flight date: 2020/5/5
+    Flight time: 10:00
+    Sections:
+    First class: seat price: 1000
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 800
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+    
+    Economy class: seat price: 400
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+     7(O_OO)
+     8(O_OO)
+    
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 5
+    
+    Enter the Origin: JPL
+    Enter the Destination: NDX
+    Enter the date (YYYY MM DD): 2020 05 05
+    Enter the time (HH MM): 10 00
+    Enter the seat class(F/B/E): F
+    
+    Displaying available flights with Origin: JPL and Destination: NDX
+    Available seats are maked as O, and booked seat are marked as X.
+    
+    Available flight(s) from USAIR on given date 2020/5/5 @ 10:00
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 1
+    
+    Enter the number of Seat to be booked: 1
+    
+    Enter the name of the Airline: USAIR
+    Enter the Flight ID: US1000
+    Enter the seat class(F/B/E): F
+    Enter the col(A-J): A
+    Enter the row: 1
+    The seat was booked on flight: US1000 of Airline: USAIR
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 2
+    
+    Enter the number of Seat to be booked: 1
+    
+    Enter the name of the Airline: USAIR
+    Enter the Flight ID: US1000
+    The seat was booked on flight: US1000 of Airline: USAIR
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 3
+    
+    Enter the number of Seat to be booked: 1
+    
+    Enter the name of the Airline: USAIR
+    Enter the Flight ID: US1000
+    Enter the seat class(F/B/E): F
+    Enter preferred seat(Window or Aisle): Window
+    The seat was booked on flight: US1000 of Airline: USAIR
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 5
+    
+    Enter the Origin: JPL
+    Enter the Destination: NDX
+    Enter the date (YYYY MM DD): 2020 05 05
+    Enter the time (HH MM): 10 00
+    Enter the seat class(F/B/E): F
+    
+    Displaying available flights with Origin: JPL and Destination: NDX
+    Available seats are maked as O, and booked seat are marked as X.
+    
+    Available flight(s) from USAIR on given date 2020/5/5 @ 10:00
+       A_BC
+     1(X_XX)
+     2(O_OO)
+    
+    
+    Airline booking Customer menu: ACTBS
+    1: Book a Seat  2: Book any Seat 3: Book a Preferred seat
+    4: Find Flight  5: Find a Seat   6: Exit Menu
+    Options: 6
+    Exiting Menu.
+    
+    Menus:
+    Cruise Admin, Cruise Customer
+    Flight Admin, Flight Customer
+    or type exit to end the system
+    Options: Flight Admin
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 9
+    
+    System Details, Booked seat are marked as X
+    
+    Airports:
+    DEN
+    NYC
+    SEA
+    LAX
+    LHR
+    GEG
+    SFO
+    NHD
+    PDX
+    JFK
+    SOL
+    LGB
+    MSK
+    LFO
+    NDX
+    JPL
+    
+    Airlines:
+    AMER
+    Flights:
+    Flight Number: AA1
+    Origin: DEN
+    Destination: LAX
+    Airline Name: AMER
+    Flight date: 2011/10/8
+    Flight time: 16:30
+    Sections:
+    First class: seat price: 500
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+    
+    Flight Number: AA2
+    Origin: LAX
+    Destination: DEN
+    Airline Name: AMER
+    Flight date: 2011/8/9
+    Flight time: 7:30
+    Sections:
+    First class: seat price: 500
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+    
+    Flight Number: AA3
+    Origin: GEG
+    Destination: PDX
+    Airline Name: AMER
+    Flight date: 2016/5/10
+    Flight time: 5:00
+    Sections:
+    First class: seat price: 5000
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Business class: seat price: 2500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 1000
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    11(OOO_OOOO_OOO)
+    12(OOO_OOOO_OOO)
+    13(OOO_OOOO_OOO)
+    14(OOO_OOOO_OOO)
+    15(OOO_OOOO_OOO)
+    16(OOO_OOOO_OOO)
+    17(OOO_OOOO_OOO)
+    18(OOO_OOOO_OOO)
+    19(OOO_OOOO_OOO)
+    20(OOO_OOOO_OOO)
+    
+    UNTD
+    Flights:
+    Flight Number: UA21
+    Origin: NYC
+    Destination: SEA
+    Airline Name: UNTD
+    Flight date: 2011/11/8
+    Flight time: 12:30
+    Sections:
+    First class: seat price: 800
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+    
+    Business class: seat price: 0
+       
+    
+    Economy class: seat price: 300
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+    
+    Flight Number: UA12
+    Origin: SEA
+    Destination: DEN
+    Airline Name: UNTD
+    Flight date: 2011/8/9
+    Flight time: 7:30
+    Sections:
+    First class: seat price: 1200
+       A_BC
+     1(O_OO)
+     2(O_OO)
+    
+    Business class: seat price: 700
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+    
+    Economy class: seat price: 100
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+     7(O_OO)
+     8(O_OO)
+    
+    DELTA
+    Flights:
+    Flight Number: D1100
+    Origin: GEG
+    Destination: LAX
+    Airline Name: DELTA
+    Flight date: 2016/3/20
+    Flight time: 5:00
+    Sections:
+    First class: seat price: 50000
+       AB_CD
+     1(OO_OO)
+     2(OO_OO)
+     3(OO_OO)
+     4(OO_OO)
+    
+    Business class: seat price: 500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 200
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    Flight Number: D1101
+    Origin: GEG
+    Destination: LAX
+    Airline Name: DELTA
+    Flight date: 2016/5/20
+    Flight time: 10:00
+    Sections:
+    First class: seat price: 20000
+       AB_CD
+     1(OO_OO)
+     2(OO_OO)
+     3(OO_OO)
+     4(OO_OO)
+    
+    Business class: seat price: 500
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+    
+    Economy class: seat price: 200
+       ABC_DEFG_HIJ
+     1(OOO_OOOO_OOO)
+     2(OOO_OOOO_OOO)
+     3(OOO_OOOO_OOO)
+     4(OOO_OOOO_OOO)
+     5(OOO_OOOO_OOO)
+     6(OOO_OOOO_OOO)
+     7(OOO_OOOO_OOO)
+     8(OOO_OOOO_OOO)
+     9(OOO_OOOO_OOO)
+    10(OOO_OOOO_OOO)
+    
+    USAIR
+    Flight:
+    Flight Number: US1000
+    Origin: JPL
+    Destination: NDX
+    Airline Name: USAIR
+    Flight date: 2020/5/5
+    Flight time: 10:00
+    Sections:
+    First class: seat price: 1000
+       A_BC
+     1(X_XX)
+     2(O_OO)
+    
+    Business class: seat price: 800
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+    
+    Economy class: seat price: 400
+       A_BC
+     1(O_OO)
+     2(O_OO)
+     3(O_OO)
+     4(O_OO)
+     5(O_OO)
+     6(O_OO)
+     7(O_OO)
+     8(O_OO)
+    
+    
+    Airline booking Admin menu: ACTBS
+    1: Add Airport                2: Add Airline
+    3: Add Flight                 4: Add Section
+    5: Change Section Price by Orig/Dest
+    6: Change Section Price by Flight
+    7: Read from file             8: Dump to file
+    9: Display System Details     10: Exit Menu
+    Options: 10
+    Exiting menu.
+    
+    Menus:
+    Cruise Admin, Cruise Customer
+    Flight Admin, Flight Customer
+    or type exit to end the system
+    Options: exit
+    Have a nice day.
+    
+     ----jGRASP: operation complete.
+    

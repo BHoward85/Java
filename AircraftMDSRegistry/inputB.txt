@@ -1,0 +1,12 @@
+Aero-fleet 1-12-1912
+Arado 1-12-1912
+Arrow 1-12-1912
+Draken 2-18-1912
+Dornier 2-19-1912
+Douglas 3-1-1912
+Grenit 3-5-1913
+Grumman 8-25-1915
+Fairey 3-10-1932
+Vickers 5-25-1940
+Vought 5-26-1940
+ZZ

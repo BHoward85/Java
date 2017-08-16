@@ -1,0 +1,91 @@
+10
+
+Name: Titan
+Class: Battleship
+Crew: 1500
+Mass limit: 5000
+WS - M
+DS - Z
+PS - MM
+OS - YY
+
+Name: Hood
+Class: Battlecruiser
+Crew: 1000
+Mass limit: 3500
+WS - L
+DS - U
+PS - LL
+OS - WW
+
+Name: Galactica
+Class: Carrier
+Crew: 3000
+Mass limit: 4000
+WS - I
+DS - U
+PS - II
+OS - ZZ
+
+Name: Pegasus
+Class: Carrier
+Crew: 5000
+Mass limit: 10000
+WS - N
+DS - BB
+PS - NN
+OS - ZZ
+
+Name: Exeter
+Class: Cruiser
+Crew: 500
+Mass limit: 2000
+WS - F
+DS - T
+PS - DD
+OS - UU
+
+Name: Star
+Class: Destroyer
+Crew: 200
+Mass limit: 1200
+WS - A
+DS - O
+PS - CC
+OS - OO
+
+Name: Sulaco
+Class: Frigate
+Crew: 100
+Mass limit: 500
+WS - B
+DS - O
+PS - CC
+OS - OO
+
+Name: Fuller
+Class: Frigate
+Crew: 100
+Mass limit: 500
+WS - A
+DS - E
+PS - AA
+OS - EE
+
+Name: Pillar of Autumn
+Class: Cruiser
+Crew: 800
+Mass limit: 2000
+WS - L
+DS - O
+PS - CC
+OS - OO
+
+Name: Pillar of Autumn
+Class: Cruiser
+Crew: 800
+Mass limit: 2000
+WS - G
+DS - P
+PS - FF
+OS - RR

@@ -1,0 +1,6 @@
+Chart XX: Other System
+Mass total: 120
+Power cost: 15
+4x Grappling hooks: 1/F, 1/P, 1/S, 1/A
+Hanger bay: Size 5
+6x Transporters

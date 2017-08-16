@@ -1,0 +1,6 @@
+Chart EE: Power System
+Mass total: 280
+Power output: 30
+Engine Power: 24
+Auxiliary Power: 6
+Battery Capacitance: 2

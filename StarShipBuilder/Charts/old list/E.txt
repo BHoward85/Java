@@ -1,0 +1,7 @@
+Chart E: Weapons Set
+Mass total: 340
+FCS lock-on: +5
+Range Finder effect: +2
+6x Laser Battery: 3\F, 1\P, 1\S, 1\A
+2x Plasma Torpedoes: 2\F
+4x Missile racks: 2\SS, 2\PS

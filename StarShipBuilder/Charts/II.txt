@@ -1,0 +1,6 @@
+Chart II: Power System
+Mass total: 670
+Power output: 70
+Engine Power: 54
+Auxiliary Power: 16
+Battery Capacitance: 10

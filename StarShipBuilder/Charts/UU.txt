@@ -1,0 +1,6 @@
+Chart UU: Other System
+Mass total: 80
+Power cost: 9
+3x Grappling hooks: 1/P, 1/S, 1/A
+Hanger bay: Size 3
+3x Transporters

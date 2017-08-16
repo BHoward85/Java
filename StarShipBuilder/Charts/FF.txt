@@ -1,0 +1,6 @@
+Chart FF: Power System
+Mass total: 420
+Power output: 44
+Engine Power: 36
+Auxiliary Power: 8
+Battery Capacitance: 4

@@ -1,0 +1,7 @@
+Chart E: Weapons Set
+Mass total: 240
+Power cost: 16
+FCS lock-on: +4
+Range Finder effect: +1
+4x Laser Battery: 1\F, 1\P, 1\S, 1\A
+2x Plasma Tropedoes: 2\F

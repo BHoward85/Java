@@ -1,0 +1,9 @@
+Chart N: Weapons Set
+Mass total: 1760
+Power cost: 88
+FCS lock-on: +5
+Range Finder effect: +2
+16x laser batteries: 6\F, 4\S, 4\P, 2\A
+6x plasma torpedoes: 2\F, 2\S, 2\P
+16x anti-fighter laser batteries: 8\SS, 8\PS
+8x Missile racks: 4\SS, 4\PS

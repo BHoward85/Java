@@ -1,0 +1,6 @@
+Chart JJ: Power System
+Mass total: 740
+Power output: 78
+Engine Power: 60
+Auxiliary Power: 18
+Battery Capacitance: 10

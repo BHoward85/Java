@@ -1,0 +1,237 @@
+E:\Fox\School dump\CSCD classes\CScD 427\Project 1>java BufMgrTester 4
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 1
+
+Enter the number of pages to be made
+Number: 20
+
+Number of pages created: 20 pages
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 0
+
+This is page 0
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 1
+
+This is page 1
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 2
+
+This is page 2
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 3
+
+This is page 3
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 4
+
+The buffer is full, try again later.
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 3
+
+Enter a page number to be changed
+Page number: 0
+
+This is page 0
+
+
+Enter content to be add: Extra line
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 0
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 5
+
+This is page 5
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 3
+
+Enter a page number to be changed
+Page number: 1
+
+This is page 1
+
+
+Enter content to be add: More lines
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 1
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 5
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 5
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 0
+
+This is page 0
+Extra line
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 1
+
+This is page 1
+More lines
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 3
+
+This is page 3
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 3
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 3
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 6
+
+This is page 6
+
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 3
+
+Enter a page number to be changed
+Page number: 6
+
+This is page 6
+
+
+Enter content to be add: more lines
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 4
+
+Enter a page number to be relinquish
+Page number: 6
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: 2
+
+Enter a page number to be read
+Page number: 6
+
+This is page 6
+more lines
+
+1: Create pages   2: Request a page
+3: Update a page  4: Relinquish a page
+-1: Quit
+User input: -1
+
+Exiting system.
+
+E:\Fox\School dump\CSCD classes\CScD 427\Project 1>

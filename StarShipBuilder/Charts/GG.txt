@@ -1,0 +1,6 @@
+Chart GG: Power System
+Mass total: 480
+Power output: 50
+Engine Power: 40
+Auxiliary Power: 10
+Battery Capacitance: 6

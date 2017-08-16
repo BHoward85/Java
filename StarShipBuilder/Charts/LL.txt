@@ -1,0 +1,6 @@
+Chart LL: Power System
+Mass total: 830
+Power output: 82
+Engine Power: 72
+Auxiliary Power: 10
+Battery Capacitance: 12

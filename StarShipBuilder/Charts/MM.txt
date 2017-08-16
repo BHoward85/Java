@@ -1,0 +1,6 @@
+Chart MM: Power System
+Mass total: 910
+Power output: 90
+Engine Power: 80
+Auxiliary Power: 10
+Battery Capacitance: 12

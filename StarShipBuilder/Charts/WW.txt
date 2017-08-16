@@ -1,0 +1,6 @@
+Chart WW: Other System
+Mass total: 100
+Power cost: 12
+4x Grappling hooks: 1/F, 1/P, 1/S, 1/A
+Hanger bay: Size 4
+4x Transporters

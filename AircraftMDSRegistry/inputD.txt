@@ -1,0 +1,21 @@
+Aero-fleet 1912-12-01
+Arado 1912-12-01
+Arrow 1912-12-01
+Draken 1912-02-18
+Aero-fleet 1914-08-05
+Arado 1914-05-01
+Arrow 1915-08-05
+Draken 1918-02-18
+Dornier 1912-02-19
+Douglas 1912-03-01
+Grenit 1913-03-05
+Grumman 1915-08-25
+Fairey 1932-03-10
+Vickers 1940-05-25
+Vought 1940-05-26
+Scoots and Palmer 1912-02-22
+New Republic 1912-02-22
+Sumter and Norrland 1912-02-23
+Marin 1913-03-01
+Grenit 1913-03-05
+ZZ

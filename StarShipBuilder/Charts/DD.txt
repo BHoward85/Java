@@ -1,0 +1,6 @@
+Chart DD: Power System
+Mass total: 190
+Power output: 20
+Engine Power: 16
+Auxiliary Power: 4
+Battery Capacitance: 2

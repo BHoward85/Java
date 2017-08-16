@@ -1,0 +1,6 @@
+Chart VV: Other System
+Mass total: 85
+Power cost: 10
+3x Grappling hooks: 1/P, 1/S, 1/A
+Hanger bay: Size 3
+4x Transporters

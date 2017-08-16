@@ -1,0 +1,6 @@
+Chart ZZ: Other System
+Mass total: 180
+Power cost: 26
+8x Grappling hooks: 2/F, 2/P, 2/S, 2/A
+Hanger bay: Size 6
+12x Transporters

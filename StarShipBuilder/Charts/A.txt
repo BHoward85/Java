@@ -1,0 +1,6 @@
+Chart A: Weapons Set
+Mass total: 20
+Power cost: 2
+FCS lock-on: +3
+Range Finder effect: +0
+1x Laser Battery: 1\360

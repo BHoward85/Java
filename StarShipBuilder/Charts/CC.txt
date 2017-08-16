@@ -1,0 +1,6 @@
+Chart CC: Power System
+Mass total: 120
+Power output: 12
+Engine Power: 10
+Auxiliary Power: 2
+Battery Capacitance: 2

@@ -1,0 +1,11 @@
+Chart W: Defensive System
+Mass total: 2350
+Power cost: 4
+Shield F: 40
+Shield S: 25
+Shield P: 25
+Shield A: 25
+Armor F: 20
+Armor S: 15
+Armor P: 15
+Armor A: 10

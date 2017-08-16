@@ -1,0 +1,6 @@
+Chart RR: Other System
+Mass total: 60
+Power cost: 6
+2x Grappling hooks: 1/PS, 1/SS
+Hanger bay: Size 2
+2x Transporters

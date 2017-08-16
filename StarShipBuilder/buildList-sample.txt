@@ -1,0 +1,19 @@
+2
+
+Name: Titan
+Class: Battleship
+Crew: 1500
+Mass limit: 5000
+WS - M
+DS - Z
+PS - MM
+OS - YY
+
+Name: Fuller
+Class: Frigate
+Crew: 100
+Mass limit: 500
+WS - A
+DS - E
+PS - AA
+OS - EE

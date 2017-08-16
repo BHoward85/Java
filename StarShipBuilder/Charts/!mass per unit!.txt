@@ -1,0 +1,18 @@
+Unit						- weight per	- power needed
+Laser Battery				- 20			- 2
+Plasma Torpedoes			- 80			- 4
+Missile Rack				- 100			- 2
+Anti-Fighter Laser Battery	- 10			- 1
+Shield generator per unit	- 10	 		- 1 per generator
+Armor bank per unit			- 20			- 0
+Engines	per power			- 10			- +1
+Auxiliary Power per power	- 5				- +1
+Battery per point			- 5				- +1
+Grappling hook				- 5				- 1
+Hanger bay Size 1			- 30			- 1
+Hanger bay Size 2			- 40			- 2
+Hanger bay Size 3			- 50			- 3
+Hanger bay Size 4			- 60			- 4
+Hanger bay Size 5			- 70			- 5
+Hanger bay Size 6			- 80			- 6
+Transporter					- 5				- 1

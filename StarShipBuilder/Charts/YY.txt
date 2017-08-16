@@ -1,0 +1,6 @@
+Chart YY: Other System
+Mass total: 140
+Power cost: 19
+6x Grappling hooks: 1/F, 2/P, 2/S, 1/A
+Hanger bay: Size 5
+8x Transporters

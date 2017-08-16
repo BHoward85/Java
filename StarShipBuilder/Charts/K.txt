@@ -1,0 +1,7 @@
+Chart K: Weapons Set
+Mass total: 1200
+Power cost: 40
+FCS lock-on: +5
+Range Finder effect: +2
+10x Laser Battery: 2\F, 3\P, 3\S, 2\A
+10x Missile racks: 5\SS, 5\PS

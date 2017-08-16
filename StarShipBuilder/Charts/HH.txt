@@ -1,0 +1,6 @@
+Chart HH: Power System
+Mass total: 600
+Power output: 62
+Engine Power: 50
+Auxiliary Power: 12
+Battery Capacitance: 8

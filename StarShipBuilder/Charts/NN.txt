@@ -1,0 +1,6 @@
+Chart NN: Power System
+Mass total: 1180
+Power output: 120
+Engine Power: 100
+Auxiliary Power: 20
+Battery Capacitance: 16

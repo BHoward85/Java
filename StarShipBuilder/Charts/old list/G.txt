@@ -1,0 +1,6 @@
+Chart G: Weapons Set
+Mass total: 400
+FCS lock-on: +5
+Range Finder effect: +2
+8x Laser Battery: 2\F, 2\P, 2\S, 2\A
+8x Missile racks: 4\SS, 4\PS

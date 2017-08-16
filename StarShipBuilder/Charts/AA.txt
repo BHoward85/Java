@@ -1,0 +1,11 @@
+Chart AA: Defensive System
+Mass total: 4400
+Power cost: 4
+Shield F: 60
+Shield S: 50
+Shield P: 50
+Shield A: 40
+Armor F: 40
+Armor S: 30
+Armor P: 30
+Armor A: 20

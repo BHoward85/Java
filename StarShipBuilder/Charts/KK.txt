@@ -1,0 +1,6 @@
+Chart KK: Power System
+Mass total: 780
+Power output: 78
+Engine Power: 64
+Auxiliary Power: 14
+Battery Capacitance: 14

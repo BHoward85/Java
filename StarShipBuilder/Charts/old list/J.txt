@@ -1,0 +1,5 @@
+Chart J: Weapons Set
+Mass total: 40
+FCS lock-on: +3
+Range Finder effect: +0
+2x Laser Battery: 1\FS, 1\AS

@@ -1,0 +1,6 @@
+Chart TT: Other System
+Mass total: 70
+Power cost: 8
+3x Grappling hooks: 1/P, 1/S, 1/A
+Hanger bay: Size 2
+3x Transporters

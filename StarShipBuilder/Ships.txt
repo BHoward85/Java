@@ -1,0 +1,352 @@
+Name: Titan
+Class: Battleship
+Crew: 1500
+LSC: 3.00
+Mass total/limit: 4590/5000
+Power cost/limit: 79/90
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+10x laser batteries: 4\F, 2\S, 2\P, 2\A
+4x plasma torpedoes: 2\F, 1\S, 1\P
+12x anti-fighter laser batteries: 6\SS, 6\PS
+4x Missile racks: 2\SS, 2\PS
+
+Defensive Systems:
+Hull Points: 310
+Shield cost: 1.80
+Shield F: 50
+Shield S: 30
+Shield P: 30
+Shield A: 20
+Armor F: 20
+Armor S: 15
+Armor P: 15
+Armor A: 10
+
+Power Systems:
+Movement Cost: 5.00
+Engine Power: 80
+Auxiliary Power: 10
+Battery Capacitance: 12
+
+Other Systems:
+6x Grappling hooks: 1/F, 2/P, 2/S, 1/A
+Hanger bay: Size 5
+8x Transporters
+
+The ship is a balanced design
+
+Name: Hood
+Class: Battlecruiser
+Crew: 1000
+LSC: 2.86
+Mass total/limit: 3490/3500
+Power cost/limit: 52/82
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+12x Laser Battery: 3\F, 3\P, 3\S, 3\A
+12x Anti-Fighter Laser Battery: 6\PS, 6\SS
+
+Defensive Systems:
+Hull Points: 185
+Shield cost: 2.34
+Shield F: 30
+Shield S: 30
+Shield P: 30
+Shield A: 20
+Armor F: 15
+Armor S: 15
+Armor P: 15
+Armor A: 10
+
+Power Systems:
+Movement Cost: 1.75
+Engine Power: 72
+Auxiliary Power: 10
+Battery Capacitance: 12
+
+Other Systems:
+4x Grappling hooks: 1/F, 1/P, 1/S, 1/A
+Hanger bay: Size 4
+4x Transporters
+
+The ship is a balanced design
+
+Name: Galactica
+Class: Carrier
+Crew: 3000
+LSC: 7.50
+Mass total/limit: 3530/4000
+Power cost/limit: 78/70
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+8x Laser Battery: 3\F, 2\P, 2\S, 1\A
+32x anti-fighter laser batteries: 8\F, 8\S, 8\P, 8\A
+
+Defensive Systems:
+Hull Points: 235
+Shield cost: 1.75
+Shield F: 30
+Shield S: 30
+Shield P: 30
+Shield A: 20
+Armor F: 15
+Armor S: 15
+Armor P: 15
+Armor A: 10
+
+Power Systems:
+Movement Cost: 2.00
+Engine Power: 54
+Auxiliary Power: 16
+Battery Capacitance: 10
+
+Other Systems:
+8x Grappling hooks: 2/F, 2/P, 2/S, 2/A
+Hanger bay: Size 6
+12x Transporters
+
+The ship is a underpower design
+
+Name: Pegasus
+Class: Carrier
+Crew: 5000
+LSC: 5.00
+Mass total/limit: 9520/10000
+Power cost/limit: 118/120
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+16x laser batteries: 6\F, 4\S, 4\P, 2\A
+6x plasma torpedoes: 2\F, 2\S, 2\P
+16x anti-fighter laser batteries: 8\SS, 8\PS
+8x Missile racks: 4\SS, 4\PS
+
+Defensive Systems:
+Hull Points: 520
+Shield cost: 1.20
+Shield F: 100
+Shield S: 80
+Shield P: 80
+Shield A: 60
+Armor F: 50
+Armor S: 40
+Armor P: 40
+Armor A: 30
+
+Power Systems:
+Movement Cost: 5.00
+Engine Power: 100
+Auxiliary Power: 20
+Battery Capacitance: 16
+
+Other Systems:
+8x Grappling hooks: 2/F, 2/P, 2/S, 2/A
+Hanger bay: Size 6
+12x Transporters
+
+The ship is a balanced design
+
+Name: Exeter
+Class: Cruiser
+Crew: 500
+LSC: 2.50
+Mass total/limit: 2550/2000
+Power cost/limit: 29/20
+
+Weapons:
+FCS lock-on: +4
+Range Finder effect: +1
+4x Laser Battery: 1\F, 1\P, 1\S, 1\A
+4x Missile racks: 2\SS, 2\PS
+
+Defensive Systems:
+Hull Points: 65
+Shield cost: 1.00
+Shield F: 30
+Shield S: 20
+Shield P: 20
+Shield A: 20
+Armor F: 15
+Armor S: 10
+Armor P: 10
+Armor A: 10
+
+Power Systems:
+Movement Cost: 0.67
+Engine Power: 16
+Auxiliary Power: 4
+Battery Capacitance: 2
+
+Other Systems:
+3x Grappling hooks: 1/P, 1/S, 1/A
+Hanger bay: Size 3
+3x Transporters
+
+The ship is a underpower and over loaded design
+
+Name: Star
+Class: Destroyer
+Crew: 200
+LSC: 1.67
+Mass total/limit: 380/1200
+Power cost/limit: 9/12
+
+Weapons:
+FCS lock-on: +3
+Range Finder effect: +0
+1x Laser Battery: 1\360
+
+Defensive Systems:
+Hull Points: 100
+Shield cost: 1.00
+Shield F: 5
+Shield S: 5
+Shield P: 5
+Shield A: 5
+Armor F: 0
+Armor S: 0
+Armor P: 0
+Armor A: 0
+
+Power Systems:
+Movement Cost: 0.30
+Engine Power: 10
+Auxiliary Power: 2
+Battery Capacitance: 2
+
+Other Systems:
+1x Grappling hooks: 1/360
+Hanger bay: Size 1 
+1x Transporters  
+
+The ship is a under engineered design
+
+Name: Sulaco
+Class: Frigate
+Crew: 100
+LSC: 2.00
+Mass total/limit: 400/500
+Power cost/limit: 11/12
+
+Weapons:
+FCS lock-on: +3
+Range Finder effect: +0
+2x Laser Battery: 1\FS, 1\AS
+
+Defensive Systems:
+Hull Points: 30
+Shield cost: 2.40
+Shield F: 5
+Shield S: 5
+Shield P: 5
+Shield A: 5
+Armor F: 0
+Armor S: 0
+Armor P: 0
+Armor A: 0
+
+Power Systems:
+Movement Cost: 0.10
+Engine Power: 10
+Auxiliary Power: 2
+Battery Capacitance: 2
+
+Other Systems:
+1x Grappling hooks: 1/360
+Hanger bay: Size 1 
+1x Transporters  
+
+The ship is a balanced design
+
+Name: Fuller
+Class: Frigate
+input chart for Defensive systems was a Weapons system
+input chart for Power systems was a Defensive system
+input chart for Other systems was a Power system
+Ship is incomplete design
+
+Name: Pillar of Autumn
+Class: Cruiser
+Crew: 800
+LSC: 4.00
+Mass total/limit: 720/2000
+Power cost/limit: 43/12
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+12x Laser Battery: 3\F, 3\P, 3\S, 3\A
+12x Anti-Fighter Laser Battery: 6\PS, 6\SS
+
+Defensive Systems:
+Hull Points: 180
+Shield cost: 0.60
+Shield F: 5
+Shield S: 5
+Shield P: 5
+Shield A: 5
+Armor F: 0
+Armor S: 0
+Armor P: 0
+Armor A: 0
+
+Power Systems:
+Movement Cost: 0.67
+Engine Power: 10
+Auxiliary Power: 2
+Battery Capacitance: 2
+
+Other Systems:
+1x Grappling hooks: 1/360
+Hanger bay: Size 1 
+1x Transporters  
+
+The ship is a underpower and under engineered design
+
+Name: Pillar of Autumn
+Class: Cruiser
+Crew: 800
+LSC: 4.00
+Mass total/limit: 1960/2000
+Power cost/limit: 38/44
+
+Weapons:
+FCS lock-on: +5
+Range Finder effect: +2
+6x Laser Battery: 3\F, 1\P, 1\S, 1\A
+2x Plasma Torpedoes: 2\F
+4x Missile racks: 2\SS, 2\PS
+
+Defensive Systems:
+Hull Points: 140
+Shield cost: 2.20
+Shield F: 10
+Shield S: 10
+Shield P: 10
+Shield A: 10
+Armor F: 5
+Armor S: 5
+Armor P: 5
+Armor A: 5
+
+Power Systems:
+Movement Cost: 0.67
+Engine Power: 36
+Auxiliary Power: 8
+Battery Capacitance: 4
+
+Other Systems:
+2x Grappling hooks: 1/PS, 1/SS
+Hanger bay: Size 2
+2x Transporters
+
+The ship is a balanced design
+

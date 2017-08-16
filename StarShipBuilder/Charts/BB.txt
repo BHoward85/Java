@@ -1,0 +1,11 @@
+Chart BB: Defensive System
+Mass total: 6400
+Power cost: 4
+Shield F: 100
+Shield S: 80
+Shield P: 80
+Shield A: 60
+Armor F: 50
+Armor S: 40
+Armor P: 40
+Armor A: 30
